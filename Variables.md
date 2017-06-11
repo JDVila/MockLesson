@@ -29,11 +29,11 @@ age = 36;
 Easy enough, yes? However, Java is something called a <b>Strongly-Typed</b> language. This means that if you are going to put something in a box (or variable), you have to match the kind of box with the types of things that go into those boxes. In Java, there are simple boxes just for words/sentences, shorter or longer decimal numbers, whole numbers of different sizes, individual letters/characters, and whether something is true, or untrue (false).
 
 <h2>Primitive Variables</h2>
-Java has eight "primitive," or non-object data types. All primitive means is that they are the most basic data types that Java allows you to work with.<br>
+Java has eight "primitive," or non-object data types. All primitive means is that they are the most basic data types that Java allows you to work with. I<br>
 <br>
 There are four for whole numbers:<br>
 <br>
- * byte<br>
+ *byte<br>
  * short<br>
  * int<br>
  * long<br>
