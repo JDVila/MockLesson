@@ -34,7 +34,7 @@ There are four for whole numbers:<br>
 - short<br>
 - int<br>
 - long<br>
-<br>
+<br><br>
 There are two for decimal numbers:<br>
 <br>
 - float<br>
