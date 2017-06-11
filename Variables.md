@@ -50,8 +50,7 @@ There is one for letters/individual characters:<br>
 And one for true or false values:<br>
 <br>
 &bull; boolean<br>
-<br>
-<h3>Variables for Whole Numbers</h3>
+<h2>Variables for Whole Numbers</h2>
 <br>
 There are four primitive data types for whole numbers. They are different from each other based on <b><i>The Size of The Number</i></b> you want to put in the box/variable.
 <br>
