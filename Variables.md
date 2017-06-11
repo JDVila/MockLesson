@@ -11,3 +11,4 @@ Variables are essentially boxes that hold things for you. For example, let's say
 <b>First Name: __________ </b>
 <b>Last Name: __________ </b>
 <b>Age: __________ </b>
+<button type="button">Submit</button>
