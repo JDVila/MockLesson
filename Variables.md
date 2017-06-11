@@ -11,4 +11,4 @@ Variables are essentially boxes that hold things for you. For example, let's say
 <b>First Name: __________ </b><br>
 <b>Last Name: __________ </b><br>
 <b>Age: __________ </b><br>
-<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/send_button.png alt="Submit Button" height="55" width="250">
+<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/send_button.png" alt="Submit Button" height="55" width="250">
