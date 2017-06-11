@@ -30,10 +30,10 @@ Java has eight "primitive," or non-object data types. All primitive means is tha
 
 There are four for whole numbers:<br>
 <br>
-<b>- byte</b><br>
-<b>- short</b><br>
-<b>- int</b><br>
-<b>- long</b><br>
+- byte<br>
+- short<br>
+- int<br>
+- long<br>
 <br>
 There are two for decimal numbers:<br>
 <br>
