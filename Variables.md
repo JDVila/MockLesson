@@ -30,23 +30,23 @@ Java has eight "primitive," or non-object data types. All primitive means is tha
 
 There are four for whole numbers:<br>
 <br>
-- byte<br>
-- short<br>
-- int<br>
-- long<br>
-<br><br>
+* byte<br>
+* short<br>
+* int<br>
+* long<br>
+<br>
 There are two for decimal numbers:<br>
 <br>
-- float<br>
-- double<br>
+* float<br>
+* double<br>
 <br>
 There is one for letters/individual characters:<br>
 <br>
-- char
+* char
 <br>
 And one for true or false values:<br>
 <br>
-- boolean
+* boolean
 <br>
 <h3>Variables for Whole Numbers</h3>
 There are four
