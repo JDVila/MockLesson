@@ -8,7 +8,7 @@ Simply put, <b>Variables</b> are the simplest version of "what something is" par
 <br><br>
 Variables are essentially boxes that hold things for you. For example, let's say you are filling out an online form:
 <br><br>
-<b>First Name: __________ </b>
-<b>Last Name: __________ </b>
-<b>Age: __________ </b>
-<img src="https://images.vexels.com/media/users/3/141174/isolated/lists/5f5b537d3dfa9f353b4a6bf488532b47-send-orange-button.png" alt="Repl.it Java Start Example" height="256" width="256">
+<b>First Name: __________ </b><br>
+<b>Last Name: __________ </b><br>
+<b>Age: __________ </b><br>
+<img src="https://images.vexels.com/media/users/3/141174/isolated/lists/5f5b537d3dfa9f353b4a6bf488532b47-send-orange-button.png" alt="Submit Button" height="100" width="100">
