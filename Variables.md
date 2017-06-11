@@ -35,22 +35,22 @@ There are four for whole numbers:<br>
 <br>
 &bull; byte<br>
 &bull; short<br>
-* int<br>
-* long<br>
+&bull; int<br>
+&bull; long<br>
 <br>
 There are two for decimal numbers:<br>
 <br>
-* float<br>
-* double<br>
+&bull; float<br>
+&bull; double<br>
 <br>
 There is one for letters/individual characters:<br>
 <br>
-* char<br>
+&bull; char<br>
 <br>
 And one for true or false values:<br>
 <br>
-* boolean<br>
+&bull; boolean<br>
 <br>
-###Variables for Whole Numbers
+<h3>Variables for Whole Numbers</h3>
 <br>
 There are four primitive data types for whole numbers. They are different from each other based on <b><i>The Size of The Number</i></b> you want to put in the box/variable.
