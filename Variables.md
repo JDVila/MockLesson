@@ -4,16 +4,16 @@ As mentioned in a previous lesson (click <a href="https://docs.google.com/presen
 
 <b><i>Java is a type of programming language.</i></b><br>
 <br>
-Simply put, <b>Variables</b> are the simplest version of "what something is" part!<br>
-<br>
+Simply put, <b>Variables</b> are the simplest version of "what something is" part!
+
 Variables are essentially boxes that hold things for you.
-<br>
+
 <img src="http://hackathon-in-a-box.org/img/box.png" alt="Submit Button" height="250" width="250">
 <br><br>
 For example, let's say you are filling out an online form:
-<br><br>
-<b>&emsp;First Name: ______________ </b><br>
-<b>&emsp;Last Name: ______________ </b><br>
+
+<b>&emsp;First Name: ______________ </b>
+<b>&emsp;Last Name: ______________ </b>
 <b>&emsp;&emsp;&emsp;&emsp;Age: ______________ </b><br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/send_button.png" alt="Submit Button" height="55" width="250">
 <br><br>
