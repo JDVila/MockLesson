@@ -20,7 +20,7 @@ registration allows you to save the code you are working on today, which isn't n
 Once the page is ready, you might see the following text:
 <br><br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_examples_click.png" alt="Repl.it Example" height="180" width="500">
-<br><br>
-<b>Step 2:</b> Click on the blue highlighted word "example" link, which will bring you to the following page:
+<br>
+<b>Step 2:</b> Click on the blue highlighted word "<font color="#0000ff">example</font>" link, which will bring you to the following page:
 <br><br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_hello_world_example.png" alt="Repl.it Hello World Example" height="425" width="500">
