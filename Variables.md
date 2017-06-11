@@ -14,9 +14,9 @@ Variables are essentially boxes that hold things for you.
 <br><br>
 For example, let's say you are filling out an online form:
 <br><br>
-<b>&emsp;First Name: __________ </b><br>
-<b>&emsp;Last Name: __________ </b><br>
-<b>&emsp;Age: __________ </b><br>
+<b>&emsp;First Name: ______________ </b><br>
+<b>&emsp;Last Name: ______________ </b><br>
+<b>&emsp;Age: ______________ </b><br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/send_button.png" alt="Submit Button" height="55" width="250">
 <br><br>
 The answers to each of those questions would need to be stored in three separate "boxes". A "box" for a "First Name," a box for a "Last Name," and a "box for the number "Age."
