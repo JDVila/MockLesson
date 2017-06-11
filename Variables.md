@@ -4,9 +4,10 @@ As mentioned in a previous lesson (click <a href="https://docs.google.com/presen
 
 <b><i>Java is a type of programming language.</i></b>
 <br><br>
-Simply put, <b>Variables</b> are the "what something is" part!
+Simply put, <b>Variables</b> are the simplest version of "what something is" part!
 <br><br>
 Variables are essentially boxes that hold things for you. For example, let's say you are filling out an online form:
-
-
-
+<br><br>
+<b>First Name: __________</b>
+<b>Last Name: __________</b>
+<b>Age: __________</b>
