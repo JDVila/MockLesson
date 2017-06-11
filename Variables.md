@@ -6,14 +6,18 @@ As mentioned in a previous lesson (click <a href="https://docs.google.com/presen
 <br><br>
 Simply put, <b>Variables</b> are the simplest version of "what something is" part!
 <br><br>
-Variables are essentially boxes that hold things for you. For example, let's say you are filling out an online form:
+Variables are essentially boxes that hold things for you. 
 <br><br>
-<b>&emsp;First Name:  __________ </b><br>
-<b>&emsp;Last Name:   __________ </b><br>
-<b>&emsp;Age:         __________ </b><br>
+
+
+
+<br><br>
+For example, let's say you are filling out an online form:
+<br><br>
+<b>&emsp;First Name: __________ </b><br>
+<b>&emsp;Last Name: __________ </b><br>
+<b>&emsp;Age: __________ </b><br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/send_button.png" alt="Submit Button" height="55" width="250">
 <br><br>
 The answers to each of those questions would need to be stored in three separate "boxes". A "box" for a "First Name," a box for a "Last Name," and a "box for the number "Age."
 <br><br>
-
-
