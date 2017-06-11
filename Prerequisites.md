@@ -16,3 +16,6 @@ Please follow the link below to get started:
 <br><br>
 https://repl.it/languages/java
 <br><br>
+Once the screen is ready, you might see the following text:
+<br><br>
+![Repl.it Examples Image](https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_examples_click.png)
