@@ -8,6 +8,6 @@ Simply put, <b>Variables</b> are the simplest version of "what something is" par
 <br><br>
 Variables are essentially boxes that hold things for you. For example, let's say you are filling out an online form:
 <br><br>
-<b>First Name: __________</b>
-<b>Last Name: __________</b>
-<b>Age: __________</b>
+<b>First Name: __________ </b>
+<b>Last Name: __________ </b>
+<b>Age: __________ </b>
