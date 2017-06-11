@@ -12,11 +12,11 @@ Variables are essentially boxes that hold things for you.
 <br><br>
 For example, let's say you are filling out an online form:<br><br>
 
-<b>&emsp;First Name: | ______________ </b>
+<b>&emsp;First Name: ______________ </b>
 
-<b>&emsp;Last Name: | ______________ </b>
+<b>&emsp;Last Name: ______________ </b>
 
-<b>&emsp;&emsp;&emsp;&emsp;Age: | ______________ </b>
+<b>&emsp;&emsp;&emsp;&emsp;Age: ______________ </b>
 <br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/send_button.png" alt="Submit Button" height="55" width="250">
 <br><br>
