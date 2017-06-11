@@ -9,7 +9,7 @@ Simply put, <b>Variables</b> are the simplest version of "what something is" par
 Variables are essentially boxes that hold things for you. 
 <br><br>
 
-
+<img src="http://hackathon-in-a-box.org/img/box.png" alt="Submit Button" height="250" width="250">
 
 <br><br>
 For example, let's say you are filling out an online form:
