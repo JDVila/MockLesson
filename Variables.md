@@ -11,4 +11,4 @@ Variables are essentially boxes that hold things for you. For example, let's say
 <b>First Name: __________ </b>
 <b>Last Name: __________ </b>
 <b>Age: __________ </b>
-<button type="button">Submit</button>
+<img src="https://images.vexels.com/media/users/3/141174/isolated/lists/5f5b537d3dfa9f353b4a6bf488532b47-send-orange-button.png" alt="Repl.it Java Start Example" height="256" width="256">
