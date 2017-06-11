@@ -10,7 +10,7 @@ Variables are essentially boxes that hold things for you.
 
 <img src="http://hackathon-in-a-box.org/img/box.png" alt="Submit Button" height="250" width="250">
 <br><br>
-For example, let's say you are filling out an online form:
+For example, let's say you are filling out an online form:<br>
 
 <b>&emsp;First Name: ______________ </b>
 <b>&emsp;Last Name: ______________ </b>
