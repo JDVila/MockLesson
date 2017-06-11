@@ -18,4 +18,4 @@ https://repl.it/languages/java
 <br><br>
 Once the screen is ready, you might see the following text:
 <br><br>
-![Repl.it Examples Image](https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_examples_click.png)
+<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_examples_click.png" alt="Repl.it Example" height="180" width="500">)
