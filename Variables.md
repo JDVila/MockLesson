@@ -6,7 +6,8 @@ As mentioned in a previous lesson (click <a href="https://docs.google.com/presen
 <br><br>
 Simply put, <b>Variables</b> are the simplest version of "what something is" part!
 <br><br>
-Variables are essentially boxes that hold things for you. 
+Variables are essentially boxes that hold things for you.
+<br>
 <img src="http://hackathon-in-a-box.org/img/box.png" alt="Submit Button" height="250" width="250">
 <br><br>
 For example, let's say you are filling out an online form:
