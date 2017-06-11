@@ -29,11 +29,10 @@ Easy enough, yes? However, Java is something called a <b>Strongly-Typed</b> lang
 Java has eight "primitive," or non-object data types. All primitive means is that they are the most basic data types that Java allows you to work with.<br>
 <br>
 There are four for whole numbers:<br>
-<br>
-* byte
-* short
-* int
-* long
+* byte<br>
+* short<br>
+* int<br>
+* long<br>
 <br>
 There are two for decimal numbers:<br>
 <br>
