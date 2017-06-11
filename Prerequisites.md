@@ -12,7 +12,7 @@ We will be testing out some code today! Luckily, we do not have to install anyth
 <br><br>
 Please follow these steps below to get started:
 <br><br>
-<b>Step 1:</b> Open this link in a new tab - https://repl.it/languages/java
+<b>Step 1:</b> Open this link in a new tab on your browser - https://repl.it/languages/java
 <br><br>
 They might ask you to register first. Ignore them - they are bullies! You could always register later;
 registration allows you to save the code you are working on today, which isn't necessary for today's lesson. 
@@ -21,6 +21,10 @@ Once the page is ready, you might see the following text:
 <br><br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_examples_click.png" alt="Repl.it Example" height="180" width="500">
 <br>
-<b>Step 2:</b> Click on the blue highlighted word _example_ link, which will bring you to the following page:
+<b>Step 2:</b> Click on the blue highlighted word "example" link, which will bring you to the following page:
 <br><br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_hello_world_example.png" alt="Repl.it Hello World Example" height="425" width="500">
+<br>
+<b>Step 3:</b> Bring your mouse arrow pointer over the "Hello World" example to highlight it, then click on it when it is greyed-over. It should bring you to a page that looks like this:
+<br><br>
+<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_java_begin.png" alt="Repl.it Java Start Example" height="153" width="800">
