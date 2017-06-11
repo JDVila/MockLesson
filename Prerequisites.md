@@ -29,5 +29,5 @@ Once the page is ready, you might see the following text:
 <br><br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_java_begin.png" alt="Repl.it Java Start Example" height="153" width="800">
 <br>
-<b>Step 04 - Final Step:</b> Huzzah! You are now ready to code in Java! Please keep the https://repl.it/languages/java link open, and click the link below to view the lesson:
+<b>Step 4 - Final Step:</b> Huzzah! You are now ready to code in Java! Please keep the https://repl.it/languages/java link open, and click the link below to view the lesson:
 <br><br>
