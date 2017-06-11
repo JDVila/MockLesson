@@ -19,3 +19,13 @@ For example, let's say you are filling out an online form:
 <br><br>
 The answers to each of those questions would need to be stored in three separate "boxes". A "box" for a "First Name," a box for a "Last Name," and a "box for the number "Age."
 <br><br>
+
+firstName = "Jose";
+lastName = "Vila";
+age = 36;
+
+<br><br>
+
+Easy enough, yes? However, Java is something called a <b>Strongly-Typed</b> language. This means that if you are going to put something in a box (or variable), you have to match the kind of box with the types of things that go into those boxes. In Java, there are simple boxes just for words/sentences, shorter or longer decimal numbers, whole numbers of different sizes, individual letters/characters, and whether something is true, or untrue (false).
+
+
