@@ -1,4 +1,4 @@
-#Variables: Essentially Boxes that Hold Things.
+<h1>Variables: Essentially Boxes that Hold Things.</h1>
 
 As mentioned in a previous lesson (click <a href="https://docs.google.com/presentation/d/1gs1s35daJTko10G4WYKMvKptp0ZvZ7JUw2ZgdK1Gdqw/edit?usp=sharing">here</a> to view previous slideshow), A <b>program</b> is a set of instructions that tell a computer: <b>1)</b> What something is, <b>2)</b> To do something, <b>3)</b> How to do something, or <b>4)</b> Any combination of the three. A <b>programming language</b> is a way of writing instructions for computers, that people can also read and understand.
 
@@ -28,13 +28,13 @@ age = 36;<br>
 <br>
 Easy enough, yes? However, Java is something called a <b>Strongly-Typed</b> language. This means that if you are going to put something in a box (or variable), you have to match the kind of box with the types of things that go into those boxes. In Java, there are simple boxes just for words/sentences, shorter or longer decimal numbers, whole numbers of different sizes, individual letters/characters, and whether something is true, or untrue (false).
 
-##Primitive Variables
+<h2>Primitive Variables</h2>
 Java has eight "primitive," or non-object data types. All primitive means is that they are the most basic data types that Java allows you to work with. It is the actual value, and not a reference to the value (we'll learn more about the difference between those two in a later lesson).<br>
 <br>
 There are four for whole numbers:<br>
 <br>
-* byte<br>
-* short<br>
+&bull; byte<br>
+&bull; short<br>
 * int<br>
 * long<br>
 <br>
