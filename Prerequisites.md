@@ -28,3 +28,6 @@ Once the page is ready, you might see the following text:
 <b>Step 3:</b> Bring your mouse arrow pointer over the "Hello World" example to highlight it, then click on it when it is greyed-over. It should bring you to a page that looks like this:
 <br><br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_java_begin.png" alt="Repl.it Java Start Example" height="153" width="800">
+<br>
+<b>Final Step:</b> Huzzah! You are now ready to code in Java! Keep the Repl.it link open, and click the link below to view the lesson:
+
