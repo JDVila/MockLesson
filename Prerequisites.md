@@ -10,16 +10,17 @@ https://www.youtube.com/watch?v=oPBWC4_Zmj0
 <h2>Programming Software</h2>
 We will be testing out some code today! Luckily, we do not have to install anything - we will use something called Repl.it on a browser of your choice.
 <br><br>
-They might ask you to register first. Ignore them - they are bullies! You could always register later; registration allows you to save the code you are working on today,
-which isn't necessary for today's lesson. 
-Please follow the link below to get started:
+Please follow these steps below to get started:
 <br><br>
-https://repl.it/languages/java
+<b>Step 1:</b> Open this link in a new tab - https://repl.it/languages/java
+<br><br>
+They might ask you to register first. Ignore them - they are bullies! You could always register later;
+registration allows you to save the code you are working on today, which isn't necessary for today's lesson. 
 <br><br>
 Once the page is ready, you might see the following text:
 <br><br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_examples_click.png" alt="Repl.it Example" height="180" width="500">
 <br><br>
-Click on the blue highlighted word "example" link, which will bring you to the following page:
+<b>Step 2:</b> Click on the blue highlighted word "example" link, which will bring you to the following page:
 <br><br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_hello_world_example.png" alt="Repl.it Hello World Example" height="425" width="500">
