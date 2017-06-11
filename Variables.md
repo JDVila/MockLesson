@@ -54,3 +54,4 @@ And one for true or false values:<br>
 <h3>Variables for Whole Numbers</h3>
 <br>
 There are four primitive data types for whole numbers. They are different from each other based on <b><i>The Size of The Number</i></b> you want to put in the box/variable.
+<br>
