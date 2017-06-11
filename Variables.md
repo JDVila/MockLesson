@@ -28,15 +28,16 @@ Easy enough, yes? However, Java is something called a <b>Strongly-Typed</b> lang
 <h2>Primitive Variables</h2>
 Java has eight "primitive," or non-object data types. There are four for whole numbers:
 <br><br>
-- byte
-- short
-- int
-- long
+- byte<br>
+- short<br>
+- int<br>
+- long<br>
 <br><br>
 There are two for decimal numbers:
 <br><br>
-- float
-- double
+- float<br>
+- double<br>
+<br>
 There is one for letters/individual characters:
 <br><br>
 - char
