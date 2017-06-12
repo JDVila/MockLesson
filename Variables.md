@@ -52,11 +52,12 @@ And one for true or false values:<br>
 &bull; boolean<br>
 <h2>Variables for Whole Numbers</h2>
 <br>
-There are four primitive data types for whole numbers. They are different from each other based on <b><i>The Size of The Number</i></b> you want to put in the box/variable.<br>
+There are four primitive data types for whole numbers. They are different from each other based on <b><i>THE SIZE OF THE NUMBER</i></b> you want to put in the box/variable.<br>
 <br>
 &bull; A <b>byte</b> variable can be as small as -128, and as large as 127.<br>
 <br>
 &bull; A <b>short</b> variable can be as small as -32,768, and as large as 32,767.<br>
 <br>
 &bull; An <b>int</b> variable can be as small as -2,147,483,648, and as large as 2,147,483,647.<br>
-
+<br>
+&bull; A <b>long</b> variable can be as small as -9,223,372,036,854,775,808, and as large as 9,223,372,036,854,775,807.<br>
