@@ -86,6 +86,8 @@ The number 42 is bigger than the minimum number an int variable can hold (-2,147
 If you wanted to, you could even declare and assign an int variable at the same time! Here, try this:<br>
 <br>
 int intNumber = 42;<br>
+<br>
+When a <b>declared</b> int variable has been <b>assigned</b> a value, we say that the int variable has been <b>initialized</b>.<br>
 
 <h2>Variables for Decimal Numbers</h2>
 <br>
@@ -112,6 +114,8 @@ dblNumber = 0.125;<br>
 Great! If you wanted to, just like with int variables, you could even declare and assign a double variable at the same time! Here, try this:<br>
 <br>
 double dblNumber = 0.125;<br>
+<br>
+When a <b>declared</b> double variable has been <b>assigned</b> a value, we say that the double variable has been <b>initialized</b>.<br>
 
 <h2>Variables for Letters/Punctuation/Individual Characters</h2>
 <br>
