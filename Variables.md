@@ -62,7 +62,7 @@ There are four primitive data types for whole numbers. They are different from e
 <br>
 &bull; A <b>long</b> type variable uses 8 bytes (64 bits) of storage. It can be as small as -9,223,372,036,854,775,808, and as large as 9,223,372,036,854,775,807.<br>
 <br>
-Generally, programmers use the <b>int</b> type for storing numbers when using primitive types. This is because int variables are large enough to hold most numbers, and don't require as much storage as the <b>long</b> variable type.<br>
+🔑 Generally, programmers use the <b>int</b> type for storing numbers when using primitive types. This is because int variables are large enough to hold most numbers, and don't require as much storage as the <b>long</b> variable type.<br>
 <br>
 If you want to know more about bits/bytes and storage, you can click <b>here</b>. 
 
@@ -75,3 +75,6 @@ There are two primitive data types for decimal numbers. They are different from 
 &bull; A <b>float</b> type variable uses 4 bytes (32 bits) of storage, and it's significand/mantissa (numbers AFTER the decimal) is precise to around the 7th decimal place.<br>
 <br>
 &bull; A <b>double</b> type variable uses 8 bytes (64 bits) of storage, and it's significand/mantissa (numbers AFTER the decimal) is precise to around the 15th decimal place.<br>
+<br>
+🔑 Generally, programmers use the <b>int</b> type for storing numbers when using primitive types. This is because int variables are large enough to hold most numbers, and don't require as much storage as the <b>long</b> variable type.<br>
+<br>
