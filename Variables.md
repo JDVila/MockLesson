@@ -133,3 +133,16 @@ Also this: <br><br><b>$</b><br>
 <br>
 You might also be wondering why the value of a <b>char</b>, or character can be a number, as well as the character itself. This is because each unicode character has a corresponding <b>numerical value</b>.<br>
 <br>
+For example, you could declare and assign a char variable in several ways:<br>
+<br>
+<b>1)</b> char letterA = 'A';<br>
+<br>
+This is the easiest value assignment! Simply take the character, place it between two single quotes (single quotes look like this - ' ), and assign as usual! However, you could also use the unicode value, as seen below:<br>
+<br>
+<b>2)</b> char letterA = '\u0041';<br>
+<br>
+This is a great way to assign char values, since you might not have an understanding of the kinds of characters you wish to put in the variable (for example, foreign language characters like Chinese or Hindi). Please remember to keep the unicode number inside the single quotes as well. The third way uses the raw ASCII value:<br>
+<br>
+<b>2)</b> char letterA = 65;<br>
+<br>
+As you can see, it's just a number - but that number matches the uppercase letter 'A' in value. 
