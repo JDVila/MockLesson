@@ -183,4 +183,13 @@ Which brings us the initialized variable:<br>
 <br>
 <b>int intNumber = 42;</b><br>
 <br>
-We also add a <b>semicolon</b>, or <b>;</b> character at the end of every statement, to let Java know that we are done with the statement.
+We also add a <b>semicolon</b>, or <b>;</b> character at the end of every statement, to let Java know that we are done with the statement.<br>
+<br>
+We can also assign a variable with a mathematical expression, like this:<br>
+<br>
+int nuNumber = 5 + 10;<br>
+<br>
+Java can only put one value into a primitive variable, so Java will perform the math for you, to make things work. 5 plus 10 is equal to 15, which means that the variable nuNumber is assigned the value of 15!<br>
+<br>
+But what if we wanted to see if certain values matched up? With the power of primitive variables combined, we can now do this! However, we will also need to use something called <b>Comparison Operators</b>:<br>
+<br>
