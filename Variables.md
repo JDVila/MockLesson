@@ -69,7 +69,7 @@ There are four primitive data types for whole numbers. They are different from e
 <br>
 If you want to know more about bits/bytes and storage, you can click <b>here</b>.<br>
 <br>
-🔑 Generally, programmers use the <b>int</b> type for storing numbers when using primitive types. This is because int variables are large enough to hold most numbers, and don't require as much storage as the <b>long</b> variable type.<br>
+🔑 Generally, programmers use the <b>int</b> type for storing whole numbers when using primitive types. This is because int variables are large enough to hold most numbers, and don't require as much storage as the <b>long</b> variable type.<br>
 <br>
 You would <b>declare</b> an int variable like this:<br>
 <br>
