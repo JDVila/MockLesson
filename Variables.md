@@ -7,7 +7,6 @@ As mentioned in a previous lesson (click <a href="https://docs.google.com/presen
 Simply put, <b>Variables</b> are the simplest version of "what something is" part!
 
 Variables are essentially boxes that hold things for you.
-
 <img src="http://hackathon-in-a-box.org/img/box.png" alt="Submit Button" height="250" width="250"><br>
 <h6>This box is a visual representation of a variable. Semiotics!</h6><br>
 <br>
@@ -149,5 +148,5 @@ As you can see, it's just a number, and there is no need to place it between sin
 <br>
 Unicode values are written in <b>hexadecimal</b> numbers, or <b>hex</b> for short. ASCII values are written in <b>decimal</b> numbers, or <b>dec</b> for short. Look at the chart below for more information:<br>
 <br>
-<img src="https://naveenr.net/content/images/2017/03/ascii-codes.gif" alt="Unicode Chart" height="536" width="500"><br>
+<img src="https://naveenr.net/content/images/2017/03/ascii-codes.gif" alt="Unicode Chart" height="536" width="500">
 🔑 There is something very important to note here: In Java, not all characters are the same. This means that uppercase 'A' is not the same as lowercase 'a' in numerical value. Look at the chart above - you will see that the uppercase letter 'A' has an ASCII or <b>dec</b> value of 65, while the lowercase letter 'a' has an ASCII or <b>dec</b> value of 97! Please remember this difference when assigning char values!
