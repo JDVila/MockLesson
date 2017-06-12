@@ -169,4 +169,18 @@ boolean doApplesTasteLikeMonkFish = false;<br>
 <br>
 As we can see, the variable is assigned with either a lowercase <b>true</b> or a lowercase <b>false</b>. However, boolean variables can also store the results of mathematical expressions. For example, if 2 plus 2 equals 4 (this would be true). However, before we explore how that works, we should first explore the difference between <b>assignment</b>, and <b>comparison</b>.<br>
 
-<h2>Assigning vs. Comparing Values</h2>
+<h2>Assigning vs. Comparing Values in Java</h2>
+<br>
+As we've done several times already - we can assign a value to a variable in three steps:<br>
+<br>
+<b>1) </b> state the type of the variable: int<br>
+<br>
+<b>2) </b> declare the name of the variable: intNumber<br>
+<br>
+<b>3) </b> assign the value of the variable: 42<br>
+<br>
+Which brings us the initialized variable:<br>
+<br>
+int intNumber = 42;<br>
+<br>
+We also add a <b>semicolon</b>, or ; character at the end of every statement, to let Java know that we are done with the statement.
