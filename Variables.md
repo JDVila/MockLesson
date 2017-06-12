@@ -72,7 +72,7 @@ You would <b>declare</b> an int variable like this:<br>
 <br>
 int intNumber;<br>
 <br>
-When you declare an int variable, you are telling Java that this variable called intNumber is now a new box that exists, and it can store a single thing, that is of type <b>int<b>.<br>
+When you declare an int variable, you are telling Java that this variable called intNumber is now a new box that exists, and it can store a single thing, that is of type <b>int</b>.<br>
 <br>
 Let's <b>assign</b> a value to that variable. When you assign a value to a variable, you are essentially putting something in the box you just created. In this case, the box is called intNumber, and we can only put int values in it. Let's do that now:<br>
 <br>
