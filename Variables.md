@@ -141,7 +141,7 @@ This is the easiest value assignment! Simply take the character, place it betwee
 <br>
 <b>2)</b> char letterA = '\u0041';<br>
 <br>
-This is a great way to assign char values, since you might not have an understanding of the kinds of characters you wish to put in the variable (for example, foreign language characters like Chinese or Hindi). Please remember to keep the unicode number inside the single quotes as well. The third way uses the raw ASCII value:<br>
+This is a great way to assign char values, since you might not have an understanding of the kinds of characters you wish to put in the variable (for example, foreign language characters like Chinese or Hindi). <b>Please remember to keep the unicode number inside the single quotes as well</b>. The third way uses the raw ASCII value:<br>
 <br>
 <b>3)</b> char letterA = 65;<br>
 <br>
@@ -150,4 +150,4 @@ As you can see, it's just a number, and there is no need to place it between sin
 Unicode values are written in <b>hexadecimal</b> numbers, or <b>hex</b> for short. ASCII values are written in <b>decimal</b> numbers, or <b>dec</b> for short. Look at the chart below for more information:<br>
 <br>
 <img src="https://naveenr.net/content/images/2017/03/ascii-codes.gif" alt="Unicode Chart" height="536" width="500">
-🔑 There is something very important to note here: In Java, not all characters are the same. This means that uppercase 'A' is not the same as lowercase 'a' in numerical value. Look at the chart above - you will see that the uppercase letter 'A' has an ASCII or <b>dec</b> value of 65, while the lowercase letter 'a' has an ASCII or <b>dec</b> value of 97! Please remember this difference when assigning char values!
+🔑 <b>There is something very important to note here:</b> In Java, not all characters are the same. This means that uppercase 'A' is not the same as lowercase 'a' in numerical value. Look at the chart above - you will see that the uppercase letter 'A' has an ASCII or <b>dec</b> value of 65, while the lowercase letter 'a' has an ASCII or <b>dec</b> value of 97! Please remember this difference when assigning char values!
