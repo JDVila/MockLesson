@@ -7,6 +7,7 @@ As mentioned in a previous lesson (click <a href="https://docs.google.com/presen
 Simply put, <b>Variables</b> are the simplest version of "what something is" part!
 
 Variables are essentially boxes that hold things for you.
+<br>
 <img src="http://hackathon-in-a-box.org/img/box.png" alt="Submit Button" height="250" width="250"><br>
 <h6>This box is a visual representation of a variable. Semiotics!</h6><br>
 <br>
