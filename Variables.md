@@ -54,13 +54,13 @@ And one for true or false values:<br>
 <br>
 There are four primitive data types for whole numbers. They are different from each other based on <b><i>THE SIZE OF THE NUMBER</i></b> you want to put in the box/variable.<br>
 <br>
-&bull; A <b>byte</b> type variable that uses 1 byte (8 bits) of storage. It can be as small as -128, and as large as 127.<br>
+&bull; A <b>byte</b> type variable uses 1 byte (8 bits) of storage. It can be as small as -128, and as large as 127.<br>
 <br>
-&bull; A <b>short</b> type variable that uses 2 bytes (16 bits) of storage. It can be as small as -32,768, and as large as 32,767.<br>
+&bull; A <b>short</b> type variable uses 2 bytes (16 bits) of storage. It can be as small as -32,768, and as large as 32,767.<br>
 <br>
-&bull; An <b>int</b> type variable that uses 4 bytes (32 bits) of storage. It can be as small as -2,147,483,648, and as large as 2,147,483,647.<br>
+&bull; An <b>int</b> type variable uses 4 bytes (32 bits) of storage. It can be as small as -2,147,483,648, and as large as 2,147,483,647.<br>
 <br>
-&bull; A <b>long</b> type variable that uses 8 bytes (64 bits) of storage. It can be as small as -9,223,372,036,854,775,808, and as large as 9,223,372,036,854,775,807.<br>
+&bull; A <b>long</b> type variable uses 8 bytes (64 bits) of storage. It can be as small as -9,223,372,036,854,775,808, and as large as 9,223,372,036,854,775,807.<br>
 
 <h2>Variables for Decimal Numbers</h2>
 <br>
