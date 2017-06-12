@@ -20,7 +20,7 @@ For example, let's say you are filling out an online form:<br><br>
 <br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/send_button.png" alt="Submit Button" height="55" width="250">
 <br><br>
-The answers to each of those questions would need to be stored in three separate "boxes". A "box" for a "First Name," a box for a "Last Name," and a "box for the number "Age."
+The answers to each of those questions would need to be stored in three separate "boxes". A "box" for a "First Name," a box for a "Last Name," and a "box" for the number "Age."
 <br><br>
 firstName = "Jose";<br>
 lastName = "Vila";<br>
