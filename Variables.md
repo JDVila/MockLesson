@@ -195,4 +195,4 @@ But what if we wanted to see if certain values matched up? With the power of pri
 <br>
 <h3>Comparison Operators</h3><br>
 <br>
-<img src="http://introcs.cs.princeton.edu/java/11cheatsheet/images/comparison-ops.png" alt="Comparison Operators" height="352" width="694">
+<img src="http://introcs.cs.princeton.edu/java/11cheatsheet/images/comparison-ops.png" alt="Comparison Operators" height="254" width="500">
