@@ -31,19 +31,19 @@ Easy enough, yes? However, Java is something called a <b>Strongly-Typed</b> lang
 <h2>Primitive Variables</h2>
 Java has eight "primitive," or non-object data types. All primitive means is that they are the most basic data types that Java allows you to work with. It is the actual value, and not a reference to the value (we'll learn more about the difference between those two in a later lesson).<br>
 <br>
-There are four for whole numbers:<br>
+There are four for positive or negative whole numbers:<br>
 <br>
 &bull; byte<br>
 &bull; short<br>
 &bull; int<br>
 &bull; long<br>
 <br>
-There are two for decimal numbers:<br>
+There are two for positive or negative decimal numbers:<br>
 <br>
 &bull; float<br>
 &bull; double<br>
 <br>
-There is one for letters/individual characters:<br>
+There is one for letters/punctuation/individual characters:<br>
 <br>
 &bull; char<br>
 <br>
@@ -61,10 +61,12 @@ There are four primitive data types for whole numbers. They are different from e
 &bull; An <b>int</b> type variable that uses 4 bytes (32 bits) of storage. It can be as small as -2,147,483,648, and as large as 2,147,483,647.<br>
 <br>
 &bull; A <b>long</b> type variable that uses 8 bytes (64 bits) of storage. It can be as small as -9,223,372,036,854,775,808, and as large as 9,223,372,036,854,775,807.<br>
+
 <h2>Variables for Decimal Numbers</h2>
 <br>
-There are two primitive data types for decimal numbers. They are different from each other based on <b><i>THE LEVEL OF ACCURACY</i></b> for the decimal number you want to put in the box/variable.<br>
+There are two primitive data types for decimal numbers. They are different from each other based on <b><i>THE LEVEL OF PRECISION</i></b> for the decimal number you want to put in the box/variable.<br>
+Let's think of it this way: If you were to convert the fraction 1/4th into a decimal number, its value would be 0.25. The fraction 1/8th would convert to 0.125. We can see that as the fractions get smaller, the numbers after the decimal point increase in length. The numbers after the decimal point are referred to as the <b>significand</b>, or the <b>mantissa</b>.<br>
 <br>
-&bull; A <b>float</b> type variable uses 4 bytes (32 bits) of storage, and....<br>
+&bull; A <b>float</b> type variable uses 4 bytes (32 bits) of storage, and it's significand (numbers AFTER the decimal)....<br>
 <br>
 &bull; A <b>double</b> type variable uses 8 bytes (64 bits) of storage, and....<br>
