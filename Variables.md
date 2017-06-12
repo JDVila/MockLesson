@@ -194,3 +194,5 @@ Java can only put one value into a primitive variable, so Java will perform the 
 But what if we wanted to see if certain values matched up? With the power of primitive variables combined, we can now do this! However, we will also need to use something called...<br>
 <br>
 <h3>Comparison Operators</h3><br>
+<br>
+<img src="http://introcs.cs.princeton.edu/java/11cheatsheet/images/comparison-ops.png" alt="Comparison Operators" height="352" width="694">
