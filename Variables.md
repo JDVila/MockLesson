@@ -66,8 +66,8 @@ There are four primitive data types for whole numbers. They are different from e
 <br>
 There are two primitive data types for decimal numbers. They are different from each other based on <b><i>THE LEVEL OF PRECISION</i></b> for the decimal number you want to put in the box/variable.<br>
 <br>
-<b><u>Let's think of it this way:</u></b> If you were to convert the fraction 1/4th into a decimal number, its value would be 0.25. The fraction 1/8th would convert to 0.125. We can see that as the fractions get smaller, the numbers after the decimal point increase in length. The numbers after the decimal point are referred to as the <b>significand</b>, or the <b>mantissa</b>.<br>
+<b>Let's think of it this way:</b> If you were to convert the fraction 1/4th into a decimal number, its value would be 0.25. The fraction 1/8th would convert to 0.125. We can see that as the fractions get smaller, the numbers after the decimal point increase in length. The numbers after the decimal point are referred to as the <b>significand</b>, or the <b>mantissa</b>.<br>
 <br>
-&bull; A <b>float</b> type variable uses 4 bytes (32 bits) of storage, and it's significand (numbers AFTER the decimal)....<br>
+&bull; A <b>float</b> type variable uses 4 bytes (32 bits) of storage, and it's significand/mantissa (numbers AFTER the decimal) is precise to around the 7th decimal place.<br>
 <br>
-&bull; A <b>double</b> type variable uses 8 bytes (64 bits) of storage, and....<br>
+&bull; A <b>double</b> type variable uses 8 bytes (64 bits) of storage, and it's significand/mantissa (numbers AFTER the decimal) is precise to around the 15th decimal place.<br>
