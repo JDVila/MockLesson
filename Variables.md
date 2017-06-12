@@ -26,7 +26,7 @@ firstName = "Jose";<br>
 lastName = "Vila";<br>
 age = 36;<br>
 <br>
-Easy enough, yes? However, Java is something called a <b>Strongly-Typed</b> language. This means that if you are going to put something in a box (or variable), you have to match the kind of box with the types of things that go into those boxes. In Java, there are simple boxes just for words/sentences, shorter or longer decimal numbers, whole numbers of different sizes, individual letters/characters, and whether something is true, or untrue (false).
+Easy enough, yes? However, Java is something called a <b>Strongly-Typed</b> language. This means that if you are going to put something in a box (or variable), you have to match the kind of box with the types of things that go into those boxes. In Java, there are simple boxes just for whole numbers of different sizes, shorter or longer decimal numbers, individual letters/characters, and whether something is true, or untrue (false).
 
 <h2>Primitive Variables</h2>
 Java has eight "primitive," or non-object data types. All primitive means is that they are the most basic data types that Java allows you to work with. It is the actual value, and not a reference to the value (we'll learn more about the difference between those two in a later lesson).<br>
@@ -61,3 +61,10 @@ There are four primitive data types for whole numbers. They are different from e
 &bull; An <b>int</b> variable can be as small as -2,147,483,648, and as large as 2,147,483,647.<br>
 <br>
 &bull; A <b>long</b> variable can be as small as -9,223,372,036,854,775,808, and as large as 9,223,372,036,854,775,807.<br>
+<h2>Variables for Decimal Numbers</h2>
+<br>
+There are two primitive data types for decimal numbers. They are different from each other based on <b><i>THE LEVEL OF ACCURACY</i></b> for the decimal number you want to put in the box/variable.<br>
+<br>
+&bull; A <b>float</b> type variable can be as small as -128, and as large as 127.<br>
+<br>
+&bull; A <b>short</b> variable can be as small as -32,768, and as large as 32,767.<br>
