@@ -191,5 +191,6 @@ int nuNumber = 5 + 10;<br>
 <br>
 Java can only put one value into a primitive variable, so Java will perform the math for you, to make things work. 5 plus 10 is equal to 15, which means that the variable nuNumber is assigned the value of 15!<br>
 <br>
-But what if we wanted to see if certain values matched up? With the power of primitive variables combined, we can now do this! However, we will also need to use something called <b>Comparison Operators</b>:<br>
+But what if we wanted to see if certain values matched up? With the power of primitive variables combined, we can now do this! However, we will also need to use something called...<br>
 <br>
+<h3>Comparison Operators</h3><br>
