@@ -115,7 +115,7 @@ double dblNumber = 0.125;<br>
 
 <h2>Variables for Letters/Punctuation/Individual Characters</h2>
 <br>
-Java only has one primitive variable type for storing things like individual <b>unicode characters</b>. A <b>char</b> type variable uses 2 bytes (16 bits) of storage. It can be as small as 0, and as large as 65,536.<br>
+Java only has one primitive variable type for storing things like individual <b>unicode characters</b>. A <b>char</b> type variable uses 2 bytes (16 bits) of storage. It can be as small as 0, and as large as 65,536. It can never be a negative number.<br>
 <br>
 What is a unicode character, you might ask? Good question!<br>
 <br>
@@ -131,5 +131,5 @@ And this: <br><br><b>%</b><br>
 <br>
 Also this: <br><br><b>$</b><br>
 <br>
-Even emojis like this: <br><br>🐶<br>
+You might be wondering why the value of a <b>char</b>, or character can be a number, as well as the character itself. This is because each unicode character has a corresponding numerical value.<br>
 <br>
