@@ -68,6 +68,20 @@ There are four primitive data types for whole numbers. They are different from e
 <br>
 🔑 Generally, programmers use the <b>int</b> type for storing numbers when using primitive types. This is because int variables are large enough to hold most numbers, and don't require as much storage as the <b>long</b> variable type.<br>
 <br>
+You would <b>declare</b> an int variable like this:<br>
+<br>
+int intNumber;<br>
+<br>
+When you declare an int variable, you are telling Java that this variable called intNumber is now a new box that exists, and it can store a single thing, that is of type <b>int<b>.<br>
+<br>
+Let's <b>assign</b> a value to that variable. When you assign a value to a variable, you are essentially putting something in the box you just created. In this case, the box is called intNumber, and we can only put int values in it. Let's do that now:<br>
+<br>
+intNumber = 42;<br>
+<br>
+If you wanted to, you could even declare and assign a variable at the same time! Here, try this:<br>
+<br>
+int intNumber = 42;<br>
+<br>
 If you want to know more about bits/bytes and storage, you can click <b>here</b>. 
 
 <h2>Variables for Decimal Numbers</h2>
@@ -80,5 +94,8 @@ There are two primitive data types for decimal numbers. They are different from 
 <br>
 &bull; A <b>double</b> type variable uses 8 bytes (64 bits) of storage, and it's significand/mantissa (numbers AFTER the decimal) is precise to around the 15th decimal place.<br>
 <br>
-🔑 Generally, programmers use the <b>double</b> type for storing decimal numbers when using primitive types. This is because even though float type variables take up less space, double variables are more precise - and the cost of losing precision might be higher than the space a smalller double variable might take up.
+🔑 Generally, programmers use the <b>double</b> type for storing decimal numbers when using primitive types. This is because even though float type variables take up less space, double variables are more precise - and the cost of losing precision might be higher than the space a smalller double variable might take up.<br>
+
+<h2>Variables for Letters/Punctuation/Individual Characters</h2>
 <br>
+Java only has one primitive variable type for storing things like individual letters
