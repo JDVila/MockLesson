@@ -36,23 +36,23 @@ int age = 36;
 <h2>Primitive Variables</h2>
 Java has eight "primitive," or non-object data types. All primitive means is that they are the most basic data types that Java allows you to work with. It is the actual value, and not a reference to the value (we'll learn more about the difference between those two in a later lesson).<br>
 <br>
-There are four for positive or negative whole numbers:<br>
+There are four primitive data types for positive or negative whole numbers:<br>
 <br>
 &bull; byte<br>
 &bull; short<br>
 &bull; int<br>
 &bull; long<br>
 <br>
-There are two for positive or negative decimal numbers:<br>
+There are two primitive data types for positive or negative decimal numbers:<br>
 <br>
 &bull; float<br>
 &bull; double<br>
 <br>
-There is one for letters/punctuation/individual characters:<br>
+There is one primitive data type for letters/punctuation/individual characters:<br>
 <br>
 &bull; char<br>
 <br>
-And one for true or false values:<br>
+And one primitive data type for true or false values:<br>
 <br>
 &bull; boolean<br>
 <h2>Variables for Whole Numbers</h2>
