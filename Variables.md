@@ -115,7 +115,9 @@ double dblNumber = 0.125;<br>
 
 <h2>Variables for Letters/Punctuation/Individual Characters</h2>
 <br>
-Java only has one primitive variable type for storing things like individual <b>unicode characters</b>. What is a unicode character, you might be asking? Good question!<br>
+Java only has one primitive variable type for storing things like individual <b>unicode characters</b>. A <b>char</b> type variable uses 2 bytes (16 bits) of storage. It can be as small as 0, and as large as 65,536.<br>
+<br>
+What is a unicode character, you might ask? Good question!<br>
 <br>
 A <b>unicode character</b> is a single letter/number/puctuation/keystroke/special character that takes up exactly one character space. For example:<br>
 <br>
