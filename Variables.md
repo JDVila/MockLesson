@@ -145,7 +145,7 @@ This is a great way to assign char values, since you might not have an understan
 <br>
 <b>3)</b> char letterA = 65;<br>
 <br>
-As you can see, it's just a number - but that number matches the uppercase letter 'A' in value.<br>
+As you can see, it's just a number, and there is no need to place it between single quotes - but that number still matches the uppercase letter 'A' in value.<br>
 <br>
 Unicode values are written in <b>hexadecimal</b> numbers, or <b>hex</b> for short. ASCII values are written in <b>decimal</b> numbers, or <b>dec</b> for short. Look at the chart below for more information:<br>
 <br>
