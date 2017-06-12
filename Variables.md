@@ -131,5 +131,5 @@ And this: <br><br><b>%</b><br>
 <br>
 Also this: <br><br><b>$</b><br>
 <br>
-You might be wondering why the value of a <b>char</b>, or character can be a number, as well as the character itself. This is because each unicode character has a corresponding numerical value.<br>
+You might also be wondering why the value of a <b>char</b>, or character can be a number, as well as the character itself. This is because each unicode character has a corresponding <b>numerical value</b>.<br>
 <br>
