@@ -101,7 +101,7 @@ There are two primitive data types for decimal numbers. They are different from 
 <br>
 You would <b>declare</b> a double variable like this:<br>
 <br>
-double doubleNumber;<br>
+double dblNumber;<br>
 <br>
 When you declare a double variable, you are telling Java that this variable called dblNumber is now a new box that exists, and it can store a single thing, that is of type <b>double</b>.<br>
 <br>
@@ -119,15 +119,15 @@ Java only has one primitive variable type for storing things like individual <b>
 <br>
 A <b>unicode character</b> is a single letter/number/puctuation/keystroke/special character that takes up exactly one character space. For example:<br>
 <br>
-This is a character: <br><b>A</b><br>
+This is a character: <br><br><b>A</b><br>
 <br>
-This is also a character: <br><b>z</b><br>
+This is also a character: <br><br><b>z</b><br>
 <br>
-This too is a character: <br><b>?</b><br>
+This too is a character: <br><br><b>?</b><br>
 <br>
-And this: <br><b>%</b><br>
+And this: <br><br><b>%</b><br>
 <br>
-Also this: <br><b>$</b><br>
+Also this: <br><br><b>$</b><br>
 <br>
-Even emojis like this: <br>🐶<br>
+Even emojis like this: <br><br>🐶<br>
 <br>
