@@ -98,6 +98,20 @@ There are two primitive data types for decimal numbers. They are different from 
 &bull; A <b>double</b> type variable uses 8 bytes (64 bits) of storage, and it's significand/mantissa (numbers AFTER the decimal) is precise to around the 15th decimal place.<br>
 <br>
 🔑 Generally, programmers use the <b>double</b> type for storing decimal numbers when using primitive types. This is because even though float type variables take up less space, double variables are more precise - and the cost of losing precision might be higher than the space a smalller double variable might take up.<br>
+<br>
+You would <b>declare</b> a double variable like this:<br>
+<br>
+double doubleNumber;<br>
+<br>
+When you declare a double variable, you are telling Java that this variable called doubleNumber is now a new box that exists, and it can store a single thing, that is of type <b>double</b>.<br>
+<br>
+Let's <b>assign</b> a value to that variable. When you assign a value to a variable - just like in the example with an int variable, you are essentially putting something in the box you just created. In this case, the box is called doubleNumber, and we can only put double values in it. Let's do that now:<br>
+<br>
+dblNumber = 0.125;<br>
+<br>
+If you wanted to, , just like with int variables, you could even declare and assign a double variable at the same time! Here, try this:<br>
+<br>
+double dblNumber = 0.125;<br>
 
 <h2>Variables for Letters/Punctuation/Individual Characters</h2>
 <br>
