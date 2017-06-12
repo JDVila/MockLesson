@@ -143,6 +143,10 @@ This is the easiest value assignment! Simply take the character, place it betwee
 <br>
 This is a great way to assign char values, since you might not have an understanding of the kinds of characters you wish to put in the variable (for example, foreign language characters like Chinese or Hindi). Please remember to keep the unicode number inside the single quotes as well. The third way uses the raw ASCII value:<br>
 <br>
-<b>2)</b> char letterA = 65;<br>
+<b>3)</b> char letterA = 65;<br>
 <br>
-As you can see, it's just a number - but that number matches the uppercase letter 'A' in value. 
+As you can see, it's just a number - but that number matches the uppercase letter 'A' in value.<br>
+<br>
+Unicode values are written in <b>hexadecimal</b> numbers, or <b>hex</b> for short. ASCII values are written in <b>decimal</b> numbers, or <b>dec</b> for short. Look at the chart below for more information:<br>
+<br>
+<img src="https://naveenr.net/content/images/2017/03/ascii-codes.gif" alt="Unicode Chart" height="536" width="500"><br>
