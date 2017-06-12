@@ -83,7 +83,7 @@ intNumber = 42;<br>
 <br>
 The number 42 is bigger than the minimum number an int variable can hold (-2,147,483,648), and smaller than the maximum number an int variable can hold (2,147,483,647), so that value assignment works! Good work!<br>
 <br>
-If you wanted to, you could even declare and assign a variable at the same time! Here, try this:<br>
+If you wanted to, you could even declare and assign an int variable at the same time! Here, try this:<br>
 <br>
 int intNumber = 42;<br>
 
