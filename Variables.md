@@ -167,4 +167,6 @@ or:<br>
 <br>
 boolean doApplesTasteLikeMonkFish = false;<br>
 <br>
-As we can see, the variable is assigned with either a lowercase <b>true</b> or a lowercase <b>false</b>. However, boolean variables can also store the results of mathematical expressions. For example, if 2 plus 2 equals 4 (this would be true).
+As we can see, the variable is assigned with either a lowercase <b>true</b> or a lowercase <b>false</b>. However, boolean variables can also store the results of mathematical expressions. For example, if 2 plus 2 equals 4 (this would be true). However, before we explore how that works, we should first explore the difference between <b>assignment</b>, and <b>comparison</b>.<br>
+
+<h2>Assigning vs. Comparing Values</h2>
