@@ -57,7 +57,7 @@ And one primitive data type for true or false values:<br>
 &bull; boolean<br>
 <h2>Variables for Whole Numbers</h2>
 <br>
-There are four primitive data types for whole numbers. They are different from each other based on <b><i>THE SIZE OF THE NUMBER</i></b> you want to put in the box/variable.<br>
+There are four primitive data types for whole numbers. They are different from each other based on <b><i>THE SIZE OF THE NUMBER</i></b> you can put in the box/variable.<br>
 <br>
 &bull; A <b>byte</b> type variable uses 1 byte (8 bits) of storage. It can be as small as -128, and as large as 127.<br>
 <br>
