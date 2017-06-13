@@ -231,8 +231,8 @@ Java likes it when you follow the rules. Java developers also like it when you f
 <h3>Reserved Words</h3>
 Java will absolutely yell at you if you use any of the following words to name things in your code:<br>
 <br>
-------------|------------|------------|------------|------------|------------
-abstract|assert|boolean|break|byte|case
+---------- | ---------- | ---------- | ---------- | ---------- | ----------
+abstract | assert | boolean | break | byte | case
 catch
 char
 class	const	continue	default
