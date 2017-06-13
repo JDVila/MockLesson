@@ -225,4 +225,22 @@ So, what value do you think is stored in the variable <b>thisIsFalse</b>, after 
 &bull; <b>5 >= 8</b> - the "greater-than-or-equal-to" comparison expression, where we check to see if 5 is "greater-than-or-equal-to" 8, which it is not;<br><br>
 &bull; <b>;</b> - and we close our statement with a ";" or semicolon.<br>
 <br>
-🔑 <b>Major Key Alert:</b> Please remember the difference between the "=" or "equals" symbol, and the "==" or "double-equals" operator in Java. The single equals (=) is only for assigning values to variables or objects, while the double-equals (==) is used as a comparison operator, comparing to primitive values to each other.
+🔑 <b>Major Key Alert:</b> Please remember the difference between the "=" or "equals" symbol, and the "==" or "double-equals" operator in Java. The single equals (=) is only for assigning values to variables or objects, while the double-equals (==) is used as a comparison operator, comparing two primitive values to each other.<br>
+<h1>Naming Conventions</h1>
+Java likes it when you follow the rules. Java developers also like it when you follow the rules. Java will get angry at you if you use certain words as vaiable names. These words are called <b>Reserved Words</b>.
+<h3>Reserved Words</h3>
+Java will absolutely yell at you if you use any of the following words to name things in your code:<br>
+<br>
+------------|------------|------------|------------|------------|------------
+abstract|assert|boolean|break|byte|case
+catch
+char
+class	const	continue	default
+double	do	else	enum	extends	false
+final	finally	float	for	goto	if
+implements	import	instanceof	int	interface	long
+native	new	null	package	private	protected
+public	return	short	static	strictfp	super
+switch	synchronized	this	throw	throws	transient
+true	try	void	volatile	while
+
