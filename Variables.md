@@ -238,9 +238,9 @@ So, what value do you think is stored in the variable <b>thisIsFalse</b>, after 
 <br>
 🔑 <b>Major Key Alert:</b> Please remember the difference between the "=" or "equals" symbol, and the "==" or "double-equals" operator in Java. The single equals (=) is only for assigning values to variables or objects, while the double-equals (==) is used as a comparison operator, comparing two primitive values to each other.<br>
 <h1>Strings - The "Sometimes Y" of Variable Types</h1>
-Java, as mentioned before, has <b>primitive</b> types - but it also has something called <b>object</b> types. We will not go into objects today, because that's beyond the scope of today's lesson. However, because we use words and sentences all the time in Java, it's worth explaining our last value type today - Strings.<br>
+As mentioned before, Java has <b>primitive</b> types - but it also has something called <b>object</b> types. We will not go into objects today, because that's beyond the scope of today's lesson. However, because we use words and sentences all the time in Java, it's worth explaining our last value type today - Strings.<br>
 <br>
-A String is essentially a long collection of character primitives. Remember how we mentioned ealier that primitive variables can only hold one value? That's true, and since a string can hold more than one character, there is no way it can be a primitive. So, how would we save a string into a variable?<br>
+A String is essentially a long collection of character primitives, in an ordered row. Remember how we mentioned ealier that primitive variables can only hold one value? That's true, and since a string can hold more than one character, there is no way it can be a primitive. So, how would we save a string into a variable?<br>
 <br>
 Well, technically - we already did that in the beginning of the lesson. Let's look at the online form example from earlier:<br>
 <br>
@@ -248,7 +248,7 @@ Well, technically - we already did that in the beginning of the lesson. Let's lo
 <br>
 Let's break it down part-by-part:<br>
 <br>
-&bull; <b>String</b> - we just defined the type of this variable as type <b>String</b> - unlike primitive types, the String type declaration begins with an uppercase "S", and not lowercase. This is because a String is a <b>class</b> of type <b>Object</b> - classes conventionally begin with an uppercase first letter in java;<br>
+&bull; <b>String</b> - we just defined the type of this variable as type <b>String</b> - unlike primitive types, the String type declaration begins with an uppercase "S", and not lowercase. This is because a String is a <b>subclass</b> of type <b>Object</b> - classes conventionally begin with an uppercase first letter in java;<br>
 <br>
 &bull; <b>firstName</b> - this is the name of the variable;<br>
 <br>
@@ -257,7 +257,7 @@ Let's break it down part-by-part:<br>
 &bull; <b>"Jose"</b> - we can see another difference, that the word <b>Jose</b> is wrapped in double-quotes. While char values are wrapped in single-quotes, String values are wrapped in double quotation marks;<br><br>
 &bull; <b>;</b> - and we close our statement with a ";" or semicolon.<br>
 <br>
-Okay, so you might be wondering what we mean by the word <b>class</b>. Well primitives aren't the only variable types that exist. There are countless others, and Java even allows you to create your own!<br>
+Okay, so you might be wondering what we mean by the words <b>subclass</b> or <b>class</b>. Well, primitives aren't the only variable types that exist. There are countless others, and Java even allows you to create your own!<br>
 <br>
 We can do this by <b>defining</b> a class. When we define a class, we are creating a blueprint for how we want our variable to look and behave. We then declare a class, just like we would a primitive variable, and then instantiate an object of the class, which is a little different from primitive variable assignment. We will go over this in greater detail in another lesson.<br>
 <h1>Naming Conventions</h1>
