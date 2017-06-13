@@ -328,3 +328,5 @@ Hmm... Earlier in the lesson, we learned that a primitive variable is not initia
 <br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/byte_assigned_100.png" alt="byte assigned value 0f 100" height="122" width="800"><br>
 Great! it worked! Okay, it works if we assign the value of 100 to the variable, but what about the value of 1,000? Let's change the value, and run it again to see what will happen:<br>
+<br>
+<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/lossy_conversion_error.png" alt="byte assigned value 0f 1000" height="175" width="800"><br>
