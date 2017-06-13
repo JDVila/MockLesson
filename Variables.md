@@ -330,3 +330,7 @@ Hmm... Earlier in the lesson, we learned that a primitive variable is not initia
 Great! it worked! Okay, it works if we assign the value of 100 to the variable, but what about the value of 1,000? Let's change the value, and run it again to see what will happen:<br>
 <br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/lossy_conversion_error.png" alt="byte assigned value 0f 1000" height="175" width="800"><br>
+Oh no! It worked for 100, why won't it work for 1,000? Let's see what the error states:<br>
+<br>
+<b>Main.java:3: error: incompatible types: possible lossy conversion from int to byte</b><br>
+Wait, why would it say that I am converting an <b>int</b> to a <b>byte</b>? Well, if you'll recall from earlier - all primitive types have minimum and maximum sizes for the values you can assign to them. A byte variable can only be assigned a value between -128, and 127; 1,000 does not fit in that range - 1,000 fits into the <b>int</b> range! It also fits into the range for long primitive variables, but because it fits perfectly into the int range, Java considers it an int value! Let's change the primitive value type for this variable, with a type that makes the most sense for this value:<br>
