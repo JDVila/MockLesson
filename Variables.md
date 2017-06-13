@@ -65,7 +65,9 @@ There are four primitive data types for whole numbers. They are different from e
 <br>
 &bull; An <b>int</b> type variable uses 4 bytes (32 bits) of storage. It can be as small as -2,147,483,648, and as large as 2,147,483,647.<br>
 <br>
-&bull; A <b>long</b> type variable uses 8 bytes (64 bits) of storage. It can be as small as -9,223,372,036,854,775,808, and as large as 9,223,372,036,854,775,807. By the way that's 9 Quintillion, 223 Quadrillion, 372 Trillion, 36 Billion, 854 Million, 775 Thousand, 808. I had to actually google how to say that correctly - that's how big of a number that is.<br>
+&bull; A <b>long</b> type variable uses 8 bytes (64 bits) of storage. It can be as small as -9,223,372,036,854,775,808, and as large as 9,223,372,036,854,775,807.<br>
+<br>
+By the way that's 9 Quintillion, 223 Quadrillion, 372 Trillion, 36 Billion, 854 Million, 775 Thousand, 808. I had to actually google how to say that correctly - that's how big of a number that is.<br>
 <br>
 If you want to know more about bits/bytes and storage, you can click <b>here</b>.<br>
 <br>
