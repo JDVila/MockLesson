@@ -67,7 +67,7 @@ There are four primitive data types for whole numbers. They are different from e
 <br>
 &bull; A <b>long</b> type variable uses 8 bytes (64 bits) of storage. It can be as small as -9,223,372,036,854,775,808, and as large as 9,223,372,036,854,775,807.<br>
 <br>
-By the way that's 9 Quintillion, 223 Quadrillion, 372 Trillion, 36 Billion, 854 Million, 775 Thousand, 808. I had to actually google how to say that correctly - that's how big of a number that is.<br>
+By the way that's 9 Quintillion, 223 Quadrillion, 372 Trillion, 36 Billion, 854 Million, 775 Thousand, 808. I had to actually Google how to say that correctly - that's how big of a number that is.<br>
 <br>
 If you want to know more about bits/bytes and storage, you can click <b>here</b>.<br>
 <br>
@@ -262,6 +262,10 @@ Just because Java likes your variable name, doesn't mean Java developers will li
 <br>
 &bull; <b>Don't Use Numbers as the First Character</b>: for example - <b>8ball</b> is considered incorrect, but <b>eight08sAndHeartBreak</b> works, despite the fact that it's also the name of a Kanye West album;<br>
 <br>
-&bull; <b>First Characters can be Letters, Underscores, or Dollar Signs</b>: You could use letterFirst, you could get away with <b>_titleColumn</b>, and even <b>$MoneyTalks</b> - but if you choose kei$ha as a variable, although you've done nothing syntatictally wrong, no one will actually want to be friends with you; and <br>
+&bull; <b>First Characters can be Letters, Underscores, or Dollar Signs</b>: You could use letterFirst, you could get away with <b>_titleColumn</b>, and even <b>$MoneyTalks</b> - but if you choose <b>kei$ha</b> as a variable, although you've done nothing syntatictally wrong, no one will actually want to be friends with you; and finally<br>
 <br>
-&bull; <b>No other Characters or Symbols. Sorry...</b>
+&bull; <b>No other Characters or Symbols. Sorry</b>: this one's pretty straight forward - as long as you follow the above rules, you should be okay for now. There are other rules for objects, constants, member variables, and other forms, but those are beyond what we are covering today.<br>
+<br>
+We did a lot. Here's a puppy:<br>
+<br>
+<img src="http://www.localpuppybreeders.com/wp-content/uploads/2014/11/Happy-Puppy.jpg" alt="Reserved Words in Java" height="280" width="240">
