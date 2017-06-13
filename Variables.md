@@ -325,4 +325,6 @@ Hey - our first error! But what is the error, exactly? Let's take a closer look:
 <b>Main.java:4: error: variable number might not have been initialized</b><br>
 <br>
 Hmm... Earlier in the lesson, we learned that a primitive variable is not initialized, until its type and name are declared (byte number), AND a <b>value</b> has been <b>assigned</b> to it. Let's assign a value of <b>100</b> to the variable, and run the code again:<br>
+<br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/byte_assigned_100.png" alt="byte assigned value 0f 100" height="122" width="800"><br>
+<br>Great! it worked!
