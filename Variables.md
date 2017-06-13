@@ -247,7 +247,6 @@ Let's break it down part-by-part:<br>
 <br>
 &bull; <b>"Jose"</b> - we can see another difference, that the word <b>Jose</b> is wrapped in double-quotes. While char values are wrapped in single-quotes, String values are wrapped in double quotation marks;<br><br>
 &bull; <b>;</b> - and we close our statement with a ";" or semicolon.<br>
-<br>
 <h1>Naming Conventions</h1>
 Java likes it when you follow the rules. Java developers also like it when you follow the rules. Java will get angry at you if you use certain words as variable names. These words are called <b>Reserved Words</b>.
 <h3>Reserved Words</h3>
