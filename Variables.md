@@ -222,6 +222,6 @@ So, what value do you think is stored in the variable thisIsFalse, after the abo
 <br>
 &bull; <b>= </b> - the "equals" sign that we use to assign value to the variable <b>thisIsFalse</b>;<br>
 <br>
-&bull; <b>5 >= 5</b> - the "greater-than-or-equal-to" comparison expression, where we check to see if 5 is "greater-than-or-equal-to" 8, which it is not;<br><br>
+&bull; <b>5 >= 8</b> - the "greater-than-or-equal-to" comparison expression, where we check to see if 5 is "greater-than-or-equal-to" 8, which it is not;<br><br>
 &bull; <b>;</b> - and we close our statement with a ";" or semicolon.<br>
 <br>
