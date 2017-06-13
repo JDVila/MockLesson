@@ -236,6 +236,7 @@ Well, technically - we already did that in the beginning of the lesson. Let's lo
 <b>String firstName = "Jose";</b><br>
 <br>
 Let's break it down part-by-part:<br>
+<br>
 &bull; <b>String</b> - we just defined the type of this variable as type <b>String</b> - unlike primitive types, the String type declaration begins with an uppercase "S", and not lowercase. This is because a String is of type <b>Object</b> - object types begin with an uppercase first letter;<br>
 <br>
 &bull; <b>firstName</b> - this is the name of the variable;<br>
@@ -251,3 +252,4 @@ Java likes it when you follow the rules. Java developers also like it when you f
 Java will absolutely yell at you if you use any of the following words to name things in your code:<br>
 <br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/reserved_words.png" alt="Reserved Words in Java" height="344" width="500">
+<h6>Don't be a hero - never use ne of these "Reserved Words" as variable names.
