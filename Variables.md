@@ -299,3 +299,18 @@ There are two parts of this page: the code on the left, and the <b>console</b> o
 <br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_hello_world_print.png" alt="Repl.it Java Start Example" height="145" width="800"><br>
 <br>
+Cool! We can see that when we run the code on the left, it does something - it prints the words <b>hello world</b> on the right side of the screen!<br>
+<br>
+So that's fun, but how did we do that, exactly? Let's look at the code on the left, line-by-line, for clues:<br>
+<br>
+<b>1 class Main {</b><br>
+<br>
+None of that looks familiar to us at all - but that doesn't mean it isn't useful... Let's look to line 2, and see if we can get a better idea:<br>
+<br>
+<b>  public static void main(String[] args) {</b>
+<br>
+We can see the word "String" there, and as we read earlier, a String can be a type of variable - but nothing else on that line is familiar.<br>
+<br>
+<b>    System.out.println("hello world");</b>
+Okay, it looks like we can see the word "print" in "println" - and the words "hello world" IN DOUBLE QUOTES! Let's see what would happen if we changed the phrase from "hello world" to "bellow squirrel":<br>
+<br>
