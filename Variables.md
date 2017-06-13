@@ -240,7 +240,7 @@ So, what value do you think is stored in the variable <b>thisIsFalse</b>, after 
 <h1>Strings - The "Sometimes Y" of Variable Types</h1>
 As mentioned before, Java has <b>primitive</b> types - but it also has something called <b>object</b> types. We will not go into objects today, because that's beyond the scope of today's lesson. However, because we use words and sentences all the time in Java, it's worth explaining our last value type today - Strings.<br>
 <br>
-A String is essentially a long collection of character primitives, in an ordered row. Remember how we mentioned ealier that primitive variables can only hold one value? That's true, and since a string can hold more than one character, there is no way it can be a primitive. So, how would we save a string into a variable?<br>
+A String is essentially a long collection of character primitives, in an ordered row - sort of like "boxes" on a "shelf." Remember how we mentioned ealier that primitive variables can only hold one value? That's true, and since a string can hold more than one character, there is no way it can be a primitive. So, how would we save a string into a variable?<br>
 <br>
 Well, technically - we already did that in the beginning of the lesson. Let's look at the online form example from earlier:<br>
 <br>
