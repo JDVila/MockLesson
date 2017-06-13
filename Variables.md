@@ -225,3 +225,4 @@ So, what value do you think is stored in the variable <b>thisIsFalse</b>, after 
 &bull; <b>5 >= 8</b> - the "greater-than-or-equal-to" comparison expression, where we check to see if 5 is "greater-than-or-equal-to" 8, which it is not;<br><br>
 &bull; <b>;</b> - and we close our statement with a ";" or semicolon.<br>
 <br>
+🔑 <b>Major Key Alert:</b> Please remember the difference between the "=" or "equals" symbol, and the "==" or "double-equals" operator in Java. The single equals (=) is only for assigning values to variables or objects, while the double-equals (==) is used as a comparison operator, comparing to primitive values to each other.
