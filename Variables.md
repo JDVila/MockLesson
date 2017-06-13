@@ -201,8 +201,8 @@ boolean thisIsTrue = 5 == 5;<br>
 <br>
 So, what value do you think is stored in the variable thisIsTrue, after the above expression? If you said <b>true</b>, you're right! Let's talk about the parts of that expression for a moment....<br>
 <br>
-<b>boolean</b> -> we just defined the type of this variable as type boolean;<br><br>
-<b>thisIsTrue</b> -> this is the name of the variable;<br><br>
-<b>= </b> -> the "equals" sign that we use to assign value to the variable <b>thisIsTrue</b>;<br><br>
-<b>5 == 5</b> -> the "double-equals" comparison expression, where we check to see if 5 "is equal to" 5, which it is;<br><br>
-<b>;</b> -> and we close our statement with a ";" or semicolon.<br><br>
+&bull; <b>boolean</b> - we just defined the type of this variable as type boolean;<br><br>
+&bull; <b>thisIsTrue</b> - this is the name of the variable;<br><br>
+&bull; <b>= </b> - the "equals" sign that we use to assign value to the variable <b>thisIsTrue</b>;<br><br>
+&bull; <b>5 == 5</b> - the "double-equals" comparison expression, where we check to see if 5 "is equal to" 5, which it is;<br><br>
+&bull; <b>;</b> - and we close our statement with a ";" or semicolon.<br><br>
