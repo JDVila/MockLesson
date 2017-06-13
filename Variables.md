@@ -290,4 +290,6 @@ If you haven't already, please set up this Java Repl here: <a href="https://repl
 <br>
 If you are not sure how to do that, follow the instructions found <a href="https://github.com/JDVila/MockLesson/blob/master/Prerequisites.md">here</a>.<br>
 <br>
-
+If everything worked correctly, you should see a screen that looks like this:<br>
+<br>
+<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_java_begin.png" alt="Repl.it Java Start Example" height="153" width="800">
