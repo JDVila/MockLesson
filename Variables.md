@@ -255,7 +255,13 @@ Java will absolutely yell at you if you use any of the following words to name t
 <br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/reserved_words.png" alt="Reserved Words in Java" height="344" width="500">
 <h6>Don't be a hero - never use one of these "Reserved Words" as variable names.</h6>
-<br>
 <h3>Formatting A Variable Name</h3>
-Just because Java likes your variable name, doesn't mean Java developers will like it. People will get on your case if you come up with weird names, unusual letter cases, or confusing number or character placement. Google has a whole website dedicated to how you name your variables correctly in their style guide, but at this point, just consider these hard-and-fast rules for naming your variables:<br>
+Just because Java likes your variable name, doesn't mean Java developers will like it. People will get on your case if you come up with weird names, unusual letter cases, or confusing number or character placement. Google has a whole website dedicated to how you should name your variables correctly in their style guide, but at this point, just consider these hard-and-fast rules for naming your variables:<br>
 <br>
+&bull; <b>Use camelCase</b>: camelCase is when you smush a couple of words together to form one word, but you keep the first word in all-lowercase, and capitalize the first letter of all the other words that come after (for example: firstName, lastName, thisIsTrue, thisIsFalse, etc.);<br>
+<br>
+&bull; <b>Don't Use Numbers as the First Character</b>: for example - <b>8ball</b> is considered incorrect, but <b>eight08sAndHeartBreak</b> works, despite the fact that it's also the name of a Kanye West album;<br>
+<br>
+&bull; <b>First Characters can be Letters, Underscores, or Dollar Signs</b>: You could use letterFirst, you could get away with <b>_titleColumn</b>, and even <b>$MoneyTalks</b> - but if you choose kei$ha as a variable, although you've done nothing syntatictally wrong, no one will actually want to be friends with you; and <br>
+<br>
+&bull; <b>No other Characters or Symbols. Sorry...</b>
