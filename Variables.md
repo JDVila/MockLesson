@@ -319,3 +319,8 @@ Great! We figured out how to print things on the screen, but we haven't actually
 Done! Let's see what would happen if we tried to print the variable "number":<br>
 <br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/variable_not_initialized.png" alt="Repl.it Java Start Example" height="165" width="800"><br>
+Hey - our first error! But what is the error, exactly? Let's take a closer look:<br>
+<br>
+<b>Main.java:4: error: variable number might not have been initialized</b><br>
+<br>
+Hmm... Earlier in the lesson, we learned that a primitive variable is not initialized, until its type and name are declared (byte number), AND a <b>value</b> has been <b>assigned</b> to it. Let's assign a value of <b>100</b> to the variable, and run the code again:<br>
