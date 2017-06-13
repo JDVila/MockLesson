@@ -197,7 +197,7 @@ But what if we wanted to see if certain values matched up? With the power of pri
 <br>
 Remember how we mentioned ealier that boolean variables are boxes that contain either true or false values? Since mathematical expressions can also be true or false, we can store the result as a boolean as well! For example:<br>
 <br>
-<b>boolean thisIsTrue = 5 == 5;</b>
+<b>boolean thisIsTrue = 5 == 5;</b><br>
 <br>
 So, what value do you think is stored in the variable thisIsTrue, after the above expression? If you said <b>true</b>, you're right! Let's talk about the parts of that expression for a moment....<br>
 <br>
@@ -212,7 +212,7 @@ So, what value do you think is stored in the variable thisIsTrue, after the abov
 <br>
 Let's look at another example:<br>
 <br>
-<b>boolean thisIsFalse = 5 >= 8;</b>
+<b>boolean thisIsFalse = 5 >= 8;</b><br>
 <br>
 So, what value do you think is stored in the variable thisIsFalse, after the above expression? If you said <b>false</b>, you're right again! Let's examine this expression for a moment as well...<br>
 <br>
