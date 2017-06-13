@@ -316,3 +316,11 @@ We can see the word "String" there, and as we read earlier, a String can be a ty
 Okay, it looks like we can see the word "print" in "println" - and the words "hello world" IN DOUBLE QUOTES! Let's see what would happen if we changed the phrase from "hello world" to "bellow squirrel":<br>
 <br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/bellow_squirrel.png" alt="Repl.it Java Start Example" height="154" width="800"><br>
+<br>
+Great! We figured out how to print things on the screen, but we haven't actually made any variables yet. Let's do that now:<br>
+<br>
+<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/declare_byte.png" alt="Repl.it Java Start Example" height="123" width="800"><br>
+<br>
+Done! Let's see what would happen if we tried to print the variable "number":<br>
+<br>
+<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/variable_not_initialized.png" alt="Repl.it Java Start Example" height="165" width="800"><br>
