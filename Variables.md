@@ -238,7 +238,7 @@ So, what value do you think is stored in the variable <b>thisIsFalse</b>, after 
 <br>
 🔑 <b>Major Key Alert:</b> Please remember the difference between the "=" or "equals" symbol, and the "==" or "double-equals" operator in Java. The single equals (=) is only for assigning values to variables or objects, while the double-equals (==) is used as a comparison operator, comparing two primitive values to each other.<br>
 <h1>Strings - The "Sometimes Y" of Variable Types</h1>
-As mentioned before, Java has <b>primitive</b> types - but it also has something called <b>object</b> types. We will not go into objects today, because that's beyond the scope of today's lesson. However, because we use words and sentences all the time in Java, it's worth explaining our last value type today - Strings.<br>
+As mentioned before, Java has <b>primitive</b> types - but it also has something called <b>class</b> types, where an <s>object</s> is a variable of a class type. We will not go into objects today, because that's beyond the scope of today's lesson. However, because we use words and sentences all the time in Java, it's worth explaining our last value type today - Strings.<br>
 <br>
 A String is essentially a long collection of character primitives, in an ordered row - sort of like "boxes" on a "shelf." Remember how we mentioned ealier that primitive variables can only hold one value? That's true, and since a string can hold more than one character, there is no way it can be a primitive. So, how would we save a string into a variable?<br>
 <br>
