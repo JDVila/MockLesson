@@ -249,7 +249,7 @@ Let's break it down part-by-part:<br>
 &bull; <b>;</b> - and we close our statement with a ";" or semicolon.<br>
 <br>
 <h1>Naming Conventions</h1>
-Java likes it when you follow the rules. Java developers also like it when you follow the rules. Java will get angry at you if you use certain words as vaiable names. These words are called <b>Reserved Words</b>.
+Java likes it when you follow the rules. Java developers also like it when you follow the rules. Java will get angry at you if you use certain words as variable names. These words are called <b>Reserved Words</b>.
 <h3>Reserved Words</h3>
 Java will absolutely yell at you if you use any of the following words to name things in your code:<br>
 <br>
