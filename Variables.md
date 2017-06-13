@@ -248,7 +248,7 @@ Well, technically - we already did that in the beginning of the lesson. Let's lo
 <br>
 Let's break it down part-by-part:<br>
 <br>
-&bull; <b>String</b> - we just defined the type of this variable as type <b>String</b> - unlike primitive types, the String type declaration begins with an uppercase "S", and not lowercase. This is because a String is of type <b>Object</b> - object types begin with an uppercase first letter;<br>
+&bull; <b>String</b> - we just defined the type of this variable as type <b>String</b> - unlike primitive types, the String type declaration begins with an uppercase "S", and not lowercase. This is because a String is a <b>class</b> of type <b>Object</b> - classes conventionally begin with an uppercase first letter in java;<br>
 <br>
 &bull; <b>firstName</b> - this is the name of the variable;<br>
 <br>
