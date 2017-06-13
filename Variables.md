@@ -231,16 +231,57 @@ Java likes it when you follow the rules. Java developers also like it when you f
 <h3>Reserved Words</h3>
 Java will absolutely yell at you if you use any of the following words to name things in your code:<br>
 <br>
----------- | ---------- | ---------- | ---------- | ---------- | ----------
-abstract | assert | boolean | break | byte | case
-catch
-char
-class	const	continue	default
-double	do	else	enum	extends	false
-final	finally	float	for	goto	if
-implements	import	instanceof	int	interface	long
-native	new	null	package	private	protected
-public	return	short	static	strictfp	super
-switch	synchronized	this	throw	throws	transient
-true	try	void	volatile	while
+&bull; abstract<br>
+&bull; assert<br>
+&bull; boolean<br>
+&bull; break<br>
+&bull; byte<br>
+&bull; case<br>
+&bull; catch<br>
+&bull; char<br>
+&bull; class<br>
+&bull; const<br>
+&bull; continue<br>
+&bull; default<br>
+&bull; double<br>
+&bull; do<br>
+&bull; else<br>
+&bull; enum<br>
+&bull; extends<br>
+&bull; false<br>
+&bull; final<br>
+&bull; finally<br>
+&bull; float<br>
+&bull; for<br>
+&bull; goto<br>
+&bull; if<br>
+&bull; implements<br>
+&bull; import<br>
+&bull; instanceof<br>
+&bull; int<br>
+&bull; interface<br>
+&bull; long<br>
+&bull; native<br>
+&bull; new<br>
+&bull; null<br>
+&bull; package<br>
+&bull; private<br>
+&bull; protected<br>
+&bull; public<br>
+&bull; return<br>
+&bull; short<br>
+&bull; static<br>
+&bull; strictfp<br>
+&bull; super<br>
+&bull; switch<br>
+&bull; synchronized<br>
+&bull; this<br>
+&bull; throw<br>
+&bull; throws<br>
+&bull; transient<br>
+&bull; true<br>
+&bull; try<br>
+&bull; void<br>
+&bull; volatile<br>
+&bull; while<br>
 
