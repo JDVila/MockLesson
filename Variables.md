@@ -195,9 +195,9 @@ But what if we wanted to see if certain values matched up? With the power of pri
 <h3>Comparison Operators</h3><br>
 <img src="http://introcs.cs.princeton.edu/java/11cheatsheet/images/comparison-ops.png" alt="Comparison Operators" height="254" width="500">
 <br>
-Remember how we mentioned ealier that boolean variables are boxes that contain either true or false values? Since mathematical expressions can also be true or false, we can store the result as a boolean as well! for example:<br>
+Remember how we mentioned ealier that boolean variables are boxes that contain either true or false values? Since mathematical expressions can also be true or false, we can store the result as a boolean as well! For example:<br>
 <br>
-boolean thisIsTrue = 5 == 5;<br>
+<b>boolean thisIsTrue = 5 == 5;</b><br>
 <br>
 So, what value do you think is stored in the variable thisIsTrue, after the above expression? If you said <b>true</b>, you're right! Let's talk about the parts of that expression for a moment....<br>
 <br>
