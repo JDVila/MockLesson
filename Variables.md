@@ -199,7 +199,7 @@ Remember how we mentioned ealier that boolean variables are boxes that contain e
 <br>
 <b>boolean thisIsTrue = 5 == 5;</b><br>
 <br>
-So, what value do you think is stored in the variable thisIsTrue, after the above expression? If you said <b>true</b>, you're right! Let's talk about the parts of that expression for a moment....<br>
+So, what value do you think is stored in the variable <b>thisIsTrue</b>, after the above expression? If you said <b>true</b>, you're right! Let's talk about the parts of that expression for a moment....<br>
 <br>
 &bull; <b>boolean</b> - we just defined the type of this variable as type boolean;<br>
 <br>
