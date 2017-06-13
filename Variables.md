@@ -335,3 +335,6 @@ Oh no! It worked for 100, why won't it work for 1,000? Let's see what the error 
 <b>Main.java:3: error: incompatible types: possible lossy conversion from int to byte</b><br>
 <br>
 Wait, why would it say that we are converting an <b>int</b> to a <b>byte</b>? Well, if you'll recall from earlier - all primitive types have minimum and maximum sizes for the values you can assign to them. A byte variable can only be assigned a value between -128, and 127; 1,000 does not fit in that range - 1,000 fits into the <b>int</b> range! It also fits into the range for long primitive variables, but because it fits perfectly into the int range, Java considers it an int value! Let's change the primitive value type for this variable, with a type that makes the most sense for this value:<br>
+<br>
+<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/int_assigned_1000.png" alt="byte assigned value 0f 1000" height="122" width="800"><br>
+Success!
