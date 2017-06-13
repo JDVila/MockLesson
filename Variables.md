@@ -154,7 +154,7 @@ As you can see, it's just a number, and there is no need to place it between sin
 Unicode values are written in <b>hexadecimal</b> numbers, or <b>hex</b> for short. ASCII values are written in <b>decimal</b> numbers, or <b>dec</b> for short. Look at the chart below for more information:<br>
 <br>
 <img src="https://naveenr.net/content/images/2017/03/ascii-codes.gif" alt="Unicode Chart" height="536" width="500">
-🔑 <b>There is something very important to note here:</b> In Java, not all characters are the same. This means that uppercase 'A' is not the same as lowercase 'a' in numerical value. Look at the chart above - you will see that the uppercase letter 'A' has an ASCII or <b>dec</b> value of 65, while the lowercase letter 'a' has an ASCII or <b>dec</b> value of 97! Please remember this difference when assigning char values!<br>
+🔑 <b>There is something very important to note here:</b> In Java, not all characters are the same. This means that uppercase 'A' is not the same as lowercase 'a' in numerical value. Look at the chart above - you will see that the uppercase letter 'A' has an ASCII or <b>dec</b> value of 65, while the lowercase letter 'a' has an ASCII or <b>dec</b> value of 97! Please remember this difference when assigning or comparing char values!<br>
 <h2>Variables for True or False Values</h2>
 <br>
 Sometimes, it is important to keep track of things that are true or false. We can use the <b>boolean</b> primitive variable type to help us store that information. The boolean primitive type is named after the mathematician George Boole. George Boole did a lot of cool stuff. We will discuss absolutely none of that stuff today. If you want to know more, you can click and read the following link found <a href="https://en.wikipedia.org/wiki/George_Boole">here</a>.<br>
@@ -214,7 +214,7 @@ Let's look at another example:<br>
 <br>
 <b>boolean thisIsFalse = 5 >= 8;</b><br>
 <br>
-So, what value do you think is stored in the variable thisIsFalse, after the above expression? If you said <b>false</b>, you're right again! Let's examine this expression for a moment as well...<br>
+So, what value do you think is stored in the variable <b>thisIsFalse</b>, after the above expression? If you said <b>false</b>, you're right again! Let's examine this expression for a moment as well...<br>
 <br>
 &bull; <b>boolean</b> - we just defined the type of this variable as type boolean;<br>
 <br>
