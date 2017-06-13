@@ -296,7 +296,7 @@ If everything worked correctly, you should see a screen that looks like this:<br
 There are two parts of this page: the code on the left, and the <b>console</b> on the right. Click on the "<b>run</b>" button, and watch what happens....
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_hello_world_print.png" alt="Repl.it Java Start Example" height="145" width="800"><br>
+<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_hello_world_print.png" alt="Hello World Run" height="145" width="800"><br>
 Cool! We can see that when we run the code on the left, it does something - it prints the words <b>hello world</b> on the right side of the screen!<br>
 <br>
 So that's fun, but how did we do that, exactly? Let's look at the code on the left, line-by-line, for clues:<br>
@@ -313,15 +313,16 @@ We can see the word "String" there, and as we read earlier, a String can be a ty
 <br>
 Okay, it looks like we can see the word "print" in "println" - and the words "hello world" IN DOUBLE QUOTES! Let's see what would happen if we changed the phrase from "hello world" to "bellow squirrel":<br>
 <br>
-<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/bellow_squirrel.png" alt="Repl.it Java Start Example" height="154" width="800"><br>
+<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/bellow_squirrel.png" alt="bellow squirrel" height="154" width="800"><br>
 Great! We figured out how to print things on the screen, but we haven't actually made any variables yet. Let's do that now:<br>
 <br>
-<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/declare_byte.png" alt="Repl.it Java Start Example" height="123" width="800"><br>
+<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/declare_byte.png" alt="declare byte" height="123" width="800"><br>
 Done! Let's see what would happen if we tried to print the variable "number":<br>
 <br>
-<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/variable_not_initialized.png" alt="Repl.it Java Start Example" height="165" width="800"><br>
+<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/variable_not_initialized.png" alt="variable not initialized" height="165" width="800"><br>
 Hey - our first error! But what is the error, exactly? Let's take a closer look:<br>
 <br>
 <b>Main.java:4: error: variable number might not have been initialized</b><br>
 <br>
 Hmm... Earlier in the lesson, we learned that a primitive variable is not initialized, until its type and name are declared (byte number), AND a <b>value</b> has been <b>assigned</b> to it. Let's assign a value of <b>100</b> to the variable, and run the code again:<br>
+<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/byte_assigned_100.png" alt="byte assigned value 0f 100" height="122" width="800"><br>
