@@ -284,5 +284,10 @@ We did a lot. Here's a puppy:<br>
 <br>
 <img src="http://www.localpuppybreeders.com/wp-content/uploads/2014/11/Happy-Puppy.jpg" alt="Reserved Words in Java" height="280" width="240">
 <h1>Practical Time!</h1>
-Now that we have enough to work with, let's make some Variables! While doing so, we will also make mistakes - which will be fun and useful. Only by mkaing mistakes, can we truly test what we think we know. Also, the compiler will constantly remind us with a Stack Trace, which will soon become your best friend in Java, next to the debugger in an IDE (more on that later!)...<br>
+Now that we have enough to work with, let's make some variables! While doing so, we will also make mistakes - which will be fun and useful. Only by making mistakes, can we truly test what we think we know. Also, the compiler will constantly remind us with a Stack Trace, which will soon become your best friend in Java, next to the debugger in an IDE (more on that later!)...<br>
 <br>
+If you haven't already, please set up this Java Repl here: <a href="https://repl.it/languages/java">https://repl.it/languages/java</a><br>
+<br>
+If you are not sure how to do that, follow the instructions found <a href="https://github.com/JDVila/MockLesson/blob/master/Prerequisites.md">here</a>.<br>
+<br>
+
