@@ -226,14 +226,14 @@ So, what value do you think is stored in the variable <b>thisIsFalse</b>, after 
 &bull; <b>;</b> - and we close our statement with a ";" or semicolon.<br>
 <br>
 🔑 <b>Major Key Alert:</b> Please remember the difference between the "=" or "equals" symbol, and the "==" or "double-equals" operator in Java. The single equals (=) is only for assigning values to variables or objects, while the double-equals (==) is used as a comparison operator, comparing two primitive values to each other.<br>
-<h1>Strings - The "Sometimes Y" of Primitives</h1>
-Java, as mentioned before, has primitive types, and object types. We will not go into objects today, because that's beyond the scope of today's lesson. However, because we use words and sentences all the time in Java, it's worth explaining our last value type today - Strings.<br>
+<h1>Strings - The "Sometimes Y" of Variable Types</h1>
+Java, as mentioned before, has both primitive types, and object types. We will not go into objects today, because that's beyond the scope of today's lesson. However, because we use words and sentences all the time in Java, it's worth explaining our last value type today - Strings.<br>
 <br>
 A String is essentially a long collection of character primitives. Remember how we mentioned ealier that primitive variables can only hold one value? That's true, and since a string can hold more than one character, there is no way it can be a primitive. So, how would we save a string into a variable?<br>
 <br>
 Well, technically - we already did that in the beginning of the lesson. Let's look at the online form example from earlier:<br>
 <br>
-String firstName = "Jose";<br>
+<b>String firstName = "Jose";</b><br>
 <br>
 Let's break it down part-by-part:<br>
 &bull; <b>String</b> - we just defined the type of this variable as type <b>String</b> - unlike primitive types, the String type declaration begins with an uppercase "S", and not lowercase. This is because a String is of type <b>Object</b> - object types begin with an uppercase first letter;<br>
