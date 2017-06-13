@@ -276,7 +276,9 @@ Just because Java likes your variable name, doesn't mean Java developers will li
 <br>
 &bull; <b>First Characters can be Letters, Underscores, or Dollar Signs</b>: You could use letterFirst, you could get away with <b>_titleColumn</b>, and even <b>$MoneyTalks</b> - but if you choose <b>kei$ha</b> as a variable, although you've done nothing syntatictally wrong, no one will actually want to be friends with you; and finally<br>
 <br>
-&bull; <b>No other Characters or Symbols. Sorry</b>: this one's pretty straight forward - as long as you follow the above rules, you should be okay for now. There are other rules for objects, constants, member variables, and other forms, but those are beyond what we are covering today.<br>
+&bull; <b>No other Characters or Symbols. Sorry</b>: this one's pretty straight forward. Only letters, numbers, underscores, and dollar signs, that's it. No periods, colons, emojis - only what was metioned above.<br>
+<br>
+As long as you follow the above rules, you should be okay for now. There are other rules for objects, constants, member variables, static variables, and other forms, but those are beyond what we are covering today.<br>
 <br>
 We did a lot. Here's a puppy:<br>
 <br>
