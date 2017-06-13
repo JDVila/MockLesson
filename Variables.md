@@ -259,7 +259,7 @@ Let's break it down part-by-part:<br>
 <br>
 Okay, so you might be wondering what we mean by the words <b>subclass</b> or <b>class</b>. Well, primitives aren't the only variable types that exist. There are countless others, and Java even allows you to create your own!<br>
 <br>
-We can do this by <b>defining</b> a class. When we define a class, we are creating a blueprint for how we want our variable to look and behave. We then declare a class, just like we would a primitive variable, and then instantiate an object of the class, which is a little different from primitive variable assignment. We will go over this in greater detail in another lesson.<br>
+We can do this by <b>defining</b> a class. When we define a class, we are creating a blueprint for how we want our variable to look and behave. We then <b>declare</b> a class, just like we would a primitive variable, and then <b>instantiate</b> an object of the class, which is a little different from primitive variable assignment. We will go over this in greater detail in another lesson.<br>
 <h1>Naming Conventions</h1>
 Java likes it when you follow the rules. Java developers also like it when you follow the rules. Java will get angry at you if you use certain words as variable names. These words are called <b>Reserved Words</b>.
 <h3>Reserved Words</h3>
