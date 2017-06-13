@@ -227,7 +227,7 @@ So, what value do you think is stored in the variable <b>thisIsFalse</b>, after 
 <br>
 🔑 <b>Major Key Alert:</b> Please remember the difference between the "=" or "equals" symbol, and the "==" or "double-equals" operator in Java. The single equals (=) is only for assigning values to variables or objects, while the double-equals (==) is used as a comparison operator, comparing two primitive values to each other.<br>
 <h1>Strings - The "Sometimes Y" of Variable Types</h1>
-Java, as mentioned before, has both primitive types, and object types. We will not go into objects today, because that's beyond the scope of today's lesson. However, because we use words and sentences all the time in Java, it's worth explaining our last value type today - Strings.<br>
+Java, as mentioned before, has primitive types - but it also has something called object types. We will not go into objects today, because that's beyond the scope of today's lesson. However, because we use words and sentences all the time in Java, it's worth explaining our last value type today - Strings.<br>
 <br>
 A String is essentially a long collection of character primitives. Remember how we mentioned ealier that primitive variables can only hold one value? That's true, and since a string can hold more than one character, there is no way it can be a primitive. So, how would we save a string into a variable?<br>
 <br>
@@ -252,4 +252,5 @@ Java likes it when you follow the rules. Java developers also like it when you f
 Java will absolutely yell at you if you use any of the following words to name things in your code:<br>
 <br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/reserved_words.png" alt="Reserved Words in Java" height="344" width="500">
-<h6>Don't be a hero - never use ne of these "Reserved Words" as variable names.
+<h6>Don't be a hero - never use one of these "Reserved Words" as variable names.</h6>
+<br>
