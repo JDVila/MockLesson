@@ -256,3 +256,6 @@ Java will absolutely yell at you if you use any of the following words to name t
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/reserved_words.png" alt="Reserved Words in Java" height="344" width="500">
 <h6>Don't be a hero - never use one of these "Reserved Words" as variable names.</h6>
 <br>
+<h3>Formatting A Variable Name</h3>
+Just because Java likes your variable name, doesn't mean Java developers will like it. People will get on your case if you come up with weird names, unusual letter cases, or confusing number or character placement. Google has a whole website dedicated to how you name your variables correctly in their style guide, but at this point, just consider these hard-and-fast rules for naming your variables:<br>
+<br>
