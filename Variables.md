@@ -292,4 +292,10 @@ If you are not sure how to do that, follow the instructions found <a href="https
 <br>
 If everything worked correctly, you should see a screen that looks like this:<br>
 <br>
-<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_java_begin.png" alt="Repl.it Java Start Example" height="153" width="800">
+<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_java_begin.png" alt="Repl.it Java Start Example" height="153" width="800"><br>
+<br>
+There are two parts of this page: the code on the left, and the <b>console</b> on the right. Click on the "<b>run</b>" button, and watch what happens....
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_hello_world_print.png" alt="Repl.it Java Start Example" height="145" width="800"><br>
+<br>
