@@ -293,14 +293,11 @@ If you are not sure how to do that, follow the instructions found <a href="https
 If everything worked correctly, you should see a screen that looks like this:<br>
 <br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_it_java_begin.png" alt="Repl.it Java Start Example" height="153" width="800"><br>
-<br>
 There are two parts of this page: the code on the left, and the <b>console</b> on the right. Click on the "<b>run</b>" button, and watch what happens....
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/repl_hello_world_print.png" alt="Repl.it Java Start Example" height="145" width="800"><br>
-<br>
 Cool! We can see that when we run the code on the left, it does something - it prints the words <b>hello world</b> on the right side of the screen!<br>
-<br>
 So that's fun, but how did we do that, exactly? Let's look at the code on the left, line-by-line, for clues:<br>
 <br>
 <b>1  class Main {</b><br>
@@ -316,11 +313,9 @@ We can see the word "String" there, and as we read earlier, a String can be a ty
 Okay, it looks like we can see the word "print" in "println" - and the words "hello world" IN DOUBLE QUOTES! Let's see what would happen if we changed the phrase from "hello world" to "bellow squirrel":<br>
 <br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/bellow_squirrel.png" alt="Repl.it Java Start Example" height="154" width="800"><br>
-<br>
 Great! We figured out how to print things on the screen, but we haven't actually made any variables yet. Let's do that now:<br>
 <br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/declare_byte.png" alt="Repl.it Java Start Example" height="123" width="800"><br>
-<br>
 Done! Let's see what would happen if we tried to print the variable "number":<br>
 <br>
 <img src="https://raw.githubusercontent.com/JDVila/MockLesson/master/variable_not_initialized.png" alt="Repl.it Java Start Example" height="165" width="800"><br>
