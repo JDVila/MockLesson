@@ -238,7 +238,7 @@ So, what value do you think is stored in the variable <b>thisIsFalse</b>, after 
 <br>
 🔑 <b>Major Key Alert:</b> Please remember the difference between the "=" or "equals" symbol, and the "==" or "double-equals" operator in Java. The single equals (=) is only for assigning values to variables or objects, while the double-equals (==) is used as a comparison operator, comparing two primitive values to each other.<br>
 <h1>Strings - The "Sometimes Y" of Variable Types</h1>
-Java, as mentioned before, has primitive types - but it also has something called object types. We will not go into objects today, because that's beyond the scope of today's lesson. However, because we use words and sentences all the time in Java, it's worth explaining our last value type today - Strings.<br>
+Java, as mentioned before, has <b>primitive</b> types - but it also has something called <b>object</b> types. We will not go into objects today, because that's beyond the scope of today's lesson. However, because we use words and sentences all the time in Java, it's worth explaining our last value type today - Strings.<br>
 <br>
 A String is essentially a long collection of character primitives. Remember how we mentioned ealier that primitive variables can only hold one value? That's true, and since a string can hold more than one character, there is no way it can be a primitive. So, how would we save a string into a variable?<br>
 <br>
@@ -256,6 +256,10 @@ Let's break it down part-by-part:<br>
 <br>
 &bull; <b>"Jose"</b> - we can see another difference, that the word <b>Jose</b> is wrapped in double-quotes. While char values are wrapped in single-quotes, String values are wrapped in double quotation marks;<br><br>
 &bull; <b>;</b> - and we close our statement with a ";" or semicolon.<br>
+<br>
+Okay, so you might be wondering what we mean by the word <b>class</b>. Well primitives aren't the only variable types that exist. There are countless others, and Java even allows you to create your own!<br>
+<br>
+We can do this by <b>defining</b> a class. When we define a class, we are creating a blueprint for how we want our variable to look and behave. We then declare a class, just like we would a primitive variable, and then instantiate an object of the class, which is a little different from primitive variable assignment. We will go over this in greater detail in another lesson.<br>
 <h1>Naming Conventions</h1>
 Java likes it when you follow the rules. Java developers also like it when you follow the rules. Java will get angry at you if you use certain words as variable names. These words are called <b>Reserved Words</b>.
 <h3>Reserved Words</h3>
