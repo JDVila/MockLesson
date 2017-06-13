@@ -2,16 +2,18 @@
 
 As mentioned in a previous lesson (click <a href="https://docs.google.com/presentation/d/1gs1s35daJTko10G4WYKMvKptp0ZvZ7JUw2ZgdK1Gdqw/edit?usp=sharing">here</a> to view previous slideshow), A <b>program</b> is a set of instructions that tell a computer:<br>
 <br>
-<b>1)</b> What something is;<br>
+<b>1)</b> What something is (My name is Jose, this is a chair, the Sun is 8 light seconds away from the Earth);<br>
 <br>
-<b>2)</b> To do something,<br>
+<b>2)</b> To do something (Set an alarm to go off at 7:00am, print a book report);<br>
 <br>
-<b>3)</b> How to do something, or<br>
-<br><b>4)</b> Any combination of the three. A <b>programming language</b> is a way of writing instructions for computers, that people can also read and understand.
+<b>3)</b> How to do something (Go down the block 100 feet, then make a left turn); or<br>
+<br>
+<b>4)</b> Any combination of the three.<br>
+<br>A <b>programming language</b> is a way of writing instructions for computers, that people can also read and understand.
 
-<b><i>Java is a type of programming language.</i></b><br>
+<b><i>Java is one of the many programming languages available for use today.</i></b><br>
 <br>
-Simply put, <b>Variables</b> are the simplest version of the "what something is" part!
+As for what a variable is - simply put, <b>Variables</b> are the simplest version of the "what something is" part!
 
 Variables are essentially boxes that hold things for you.
 <br>
