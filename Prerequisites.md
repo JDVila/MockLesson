@@ -31,3 +31,4 @@ Once the page is ready, you might see the following text:
 <br>
 <b>Step 4 - Final Step:</b> Huzzah! You are now ready to code in Java! Please keep the https://repl.it/languages/java link open, and click the link below to view the lesson:
 <br><br>
+https://github.com/JDVila/MockLesson/blob/master/Variables.md
